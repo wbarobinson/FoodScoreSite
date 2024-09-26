@@ -71,10 +71,11 @@ def calculate_score(protein, fiber, sat_fat, calories, food_name):
 
     return total_score, protein_score, fiber_score, sat_fat_score
 
-# Function to extract nutrients, ensuring all required nutrients are present
+# Function to extract nutrients, ensuring essential nutrients are present
 def extract_nutrients(food):
     food_name = food.get('description', 'Unknown Food')
-    nutrients = {'Protein': None, 'Fiber': None, 'Saturated Fat': None, 'Calories': None, 'Total Fat': None, 'Carbohydrates': None}
+    # Allow optional nutrients (e.g., Fiber and Saturated Fat) to be missing
+    nutrients = {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0, 'Carbohydrates': 0}
 
     # Extract each nutrient from food data
     for nutrient in food.get('foodNutrients', []):
@@ -84,12 +85,13 @@ def extract_nutrients(food):
         # Match nutrients correctly using specified keywords
         for key, keywords in nutrient_keywords.items():
             if match_nutrient(nutrient, keywords):
-                nutrients[key] = nutrient.get('amount', None)
+                nutrients[key] = nutrient.get('amount', 0)  # Use 0 if amount is not present
                 break  # Stop further checks once a match is found
 
-    # Skip foods missing any required nutrient data
-    if None in nutrients.values():
-        logging.warning(f"Skipping {food_name} due to missing nutrient data: {nutrients}")
+    # Skip foods missing any essential nutrient data (Protein, Total Fat, Carbohydrates, Calories)
+    essential_nutrients = ['Protein', 'Total Fat', 'Carbohydrates', 'Calories']
+    if any(nutrients[n] is None for n in essential_nutrients):
+        logging.warning(f"Skipping {food_name} due to missing essential nutrient data: {nutrients}")
         return None
 
     # Log the extracted nutrient amounts
@@ -114,7 +116,7 @@ def extract_nutrients(food):
 
 # Extract and calculate scores for each food item
 if data:
-    foods_data = [extract_nutrients(food) for food in data.get('FoundationFoods', []) if extract_nutrients(food)]
+    foods_data = [extract_nutrients(food) for food in data.get('FoundationFoods', []) if extract_nutrients(food) is not None]
 
     # Save the extracted and scored data to a JSON file
     output_file_path = 'foods_data.json'
