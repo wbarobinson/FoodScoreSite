@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Score</title>
+    <!-- Include DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th {
+            background-color: #f4f4f4;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Food Score</h1>
+    <p>Food Score is a simple way to evaluate foods based on their protein, fiber, and saturated fat content. Each food gets a score based on its nutritional profile, helping you make better choices.</p>
+
+    <h2>Top Foods by Food Score</h2>
+    <table id="foodTable" class="display">
+        <thead>
+            <tr>
+                <th>Food</th>
+                <th>Total Score</th>
+                <th>Protein Score</th>
+                <th>Fiber Score</th>
+                <th>Saturated Fat Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Example Data -->
+            <tr>
+                <td>Almonds</td>
+                <td>15.0</td>
+                <td>0.0288</td>
+                <td>0.084</td>
+                <td>-0.0367</td>
+            </tr>
+            <tr>
+                <td>Broccoli</td>
+                <td>25.4</td>
+                <td>0.0408</td>
+                <td>0.188</td>
+                <td>-0.0133</td>
+            </tr>
+            <!-- Add more food rows up to 200 here -->
+        </tbody>
+    </table>
+
+    <!-- Include jQuery and DataTables JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#foodTable').DataTable({
+                "paging": true,
+                "searching": true,
+                "ordering": true
+            });
+        });
+    </script>
+</body>
+</html>
