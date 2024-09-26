@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,8 +28,29 @@
     </style>
 </head>
 <body>
-    <h1>Food Score</h1>
-    <p>View the food scores based on protein, fiber, and saturated fat content.</p>
+    <h1>Food Nutrient Scores</h1>
+    <p>
+        The food nutrient scores displayed on this page are calculated based on three key nutrients: Protein, Fiber, and Saturated Fat. These nutrients were chosen for their significant roles in diet quality and health outcomes:
+    </p>
+    <ul>
+        <li><strong>Protein:</strong> Essential for muscle growth, repair, and overall body function, protein is a crucial macronutrient. Higher protein content in food generally indicates a more nutritious choice, especially when balanced with other nutrients.</li>
+        <li><strong>Fiber:</strong> Important for digestive health, fiber aids in maintaining healthy blood sugar levels, lowering cholesterol, and promoting satiety. Foods high in fiber are generally considered beneficial to overall health.</li>
+        <li><strong>Saturated Fat:</strong> While fats are essential, high intake of saturated fat has been linked to increased risk of cardiovascular disease. Therefore, reducing the score for higher saturated fat content aligns with dietary guidelines that recommend limiting saturated fat intake.</li>
+    </ul>
+    <p>
+        The scores are calculated by comparing the amount of each nutrient relative to the total calorie content of the food, then normalizing these values to create a balanced scoring system:
+    </p>
+    <ul>
+        <li><strong>Protein Score:</strong> The protein score is calculated as the amount of protein per 100 calories, then normalized to a reference value of 125 grams per 2000 calories. This value represents a high-protein target often recommended for active individuals or those aiming to build muscle.</li>
+        <li><strong>Fiber Score:</strong> The fiber score is calculated similarly, using the amount of fiber per 100 calories and normalizing it to 25 grams per 2000 calories. This target is based on dietary guidelines that recommend 25-30 grams of fiber per day for adults.</li>
+        <li><strong>Saturated Fat Score:</strong> The saturated fat score is negative to penalize foods high in saturated fats. It's normalized to -15 grams per 2000 calories, reflecting the upper limit recommended by many health guidelines to minimize cardiovascular risks.</li>
+    </ul>
+    <p>
+        Each score is then multiplied by 100 to enhance visibility and rounded to one decimal place. The total score is the sum of the protein and fiber scores, adjusted by the negative saturated fat score, to reflect a balanced view of the food's overall healthiness.
+    </p>
+    <p>
+        This scoring system helps highlight foods that provide valuable nutrients like protein and fiber while minimizing less healthy components like saturated fats, guiding better dietary choices.
+    </p>
 
     <!-- Table to display food scores -->
     <table id="foodTable">
