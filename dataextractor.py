@@ -19,13 +19,27 @@ except json.JSONDecodeError as e:
     print(f"JSON Decode Error: {e}")
     data = None
 
-# Function to calculate the food score
+# Nutrient names and IDs of interest to match various formats
+nutrient_keywords = {
+    'Protein': ['Protein', 'Proteins', 1003],
+    'Fiber': ['Fiber, total dietary', 'Dietary Fiber', 1079],
+    'Saturated Fat': ['Fatty acids, total saturated', 'Saturated Fat', 1258],
+    'Calories': ['Energy', 'Calories', 1008, 'Energy (Atwater General Factors)', 'Energy (Atwater Specific Factors)', 2047, 2048]
+}
+
+# Function to match nutrient names or IDs
+def match_nutrient(nutrient, keywords):
+    name = nutrient['nutrient']['name']
+    id_ = nutrient['nutrient']['id']
+    return name in keywords or id_ in keywords
+
+# Function to calculate the food score with protein, fiber, and saturated fat scores multiplied by 100 and rounded
 def calculate_score(protein, fiber, sat_fat, calories):
-    protein_score = (protein / calories) * 100 / 125 if calories > 0 else 0
-    fiber_score = (fiber / calories) * 100 / 25 if calories > 0 else 0
-    sat_fat_score = -(sat_fat / calories) * 100 / 15 if calories > 0 else 0
-    total_score = (protein_score + fiber_score + sat_fat_score) * 100
-    return round(total_score, 1), round(protein_score, 4), round(fiber_score, 4), round(sat_fat_score, 4)
+    protein_score = round((protein / calories) * 100 / 125 * 100, 1) if calories > 0 else 0
+    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1) if calories > 0 else 0
+    sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1) if calories > 0 else 0
+    total_score = round(protein_score + fiber_score + sat_fat_score, 1)
+    return total_score, protein_score, fiber_score, sat_fat_score
 
 # Extract relevant nutrients from each food item
 def extract_nutrients(food):
@@ -33,16 +47,10 @@ def extract_nutrients(food):
     nutrients = {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0}
 
     for nutrient in food.get('foodNutrients', []):
-        nutrient_name = nutrient['nutrient']['name']
-        nutrient_amount = nutrient.get('amount', 0)
-        if nutrient_name == 'Protein':
-            nutrients['Protein'] = nutrient_amount
-        elif nutrient_name == 'Fiber, total dietary':
-            nutrients['Fiber'] = nutrient_amount
-        elif nutrient_name == 'Fatty acids, total saturated':
-            nutrients['Saturated Fat'] = nutrient_amount
-        elif nutrient_name == 'Energy':
-            nutrients['Calories'] = nutrient_amount
+        # Match each nutrient by its name or ID using the keywords defined above
+        for key, keywords in nutrient_keywords.items():
+            if match_nutrient(nutrient, keywords):
+                nutrients[key] = nutrient.get('amount', 0)
 
     total_score, protein_score, fiber_score, sat_fat_score = calculate_score(
         nutrients['Protein'], nutrients['Fiber'], nutrients['Saturated Fat'], nutrients['Calories']
