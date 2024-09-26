@@ -1904,20 +1904,6 @@
         "Saturated Fat Score": -0.0
     },
     {
-        "Food": "Squash, summer, green, zucchini, includes skin, raw",
-        "Total Score": 65.6,
-        "Protein Score": 13.6,
-        "Fiber Score": 52.0,
-        "Saturated Fat Score": -0.0
-    },
-    {
-        "Food": "Squash, summer, yellow, includes skin, raw",
-        "Total Score": 94.9,
-        "Protein Score": 14.9,
-        "Fiber Score": 80.0,
-        "Saturated Fat Score": -0.0
-    },
-    {
         "Food": "Squash, winter, butternut, raw",
         "Total Score": 21.0,
         "Protein Score": 2.2,
