@@ -707,13 +707,6 @@
         "Saturated Fat Score": -16.8
     },
     {
-        "Food": "Butter, stick, unsalted",
-        "Total Score": 0.0,
-        "Protein Score": 0.0,
-        "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.0
-    },
-    {
         "Food": "Flour, wheat, all-purpose, enriched, bleached",
         "Total Score": 2.4,
         "Protein Score": 2.4,
