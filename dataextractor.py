@@ -24,6 +24,8 @@ nutrient_keywords = {
     'Protein': ['Protein', 'Proteins', 1003],
     'Fiber': ['Fiber, total dietary', 'Dietary Fiber', 1079],
     'Saturated Fat': ['Fatty acids, total saturated', 'Saturated Fat', 1258],
+    'Total Fat': ['Total lipid (fat)', 'Fat', 1004],
+    'Carbohydrates': ['Carbohydrate, by difference', 'Carbs', 1005],
     'Calories': ['Energy', 'Calories', 1008, 'Energy (Atwater General Factors)', 'Energy (Atwater Specific Factors)', 2047, 2048]
 }
 
@@ -33,18 +35,24 @@ def match_nutrient(nutrient, keywords):
     id_ = nutrient['nutrient']['id']
     return name in keywords or id_ in keywords
 
+# Estimate calories if missing using macronutrient values
+def estimate_calories(protein, fat, carbs):
+    estimated_calories = (protein * 4) + (fat * 9) + (carbs * 4)
+    return estimated_calories if estimated_calories > 0 else 1  # Ensure it's not zero
+
 # Function to calculate the food score with protein, fiber, and saturated fat scores multiplied by 100 and rounded
 def calculate_score(protein, fiber, sat_fat, calories):
-    protein_score = round((protein / calories) * 100 / 125 * 100, 1) if calories > 0 else 0
-    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1) if calories > 0 else 0
-    sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1) if calories > 0 else 0
+    # Calculate the scores without adjusting for a minimum calorie value
+    protein_score = round((protein / calories) * 100 / 125 * 100, 1)
+    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1)
+    sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1)
     total_score = round(protein_score + fiber_score + sat_fat_score, 1)
     return total_score, protein_score, fiber_score, sat_fat_score
 
 # Extract relevant nutrients from each food item
 def extract_nutrients(food):
     food_name = food.get('description', 'Unknown Food')
-    nutrients = {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0}
+    nutrients = {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0, 'Carbohydrates': 0}
 
     for nutrient in food.get('foodNutrients', []):
         # Match each nutrient by its name or ID using the keywords defined above
@@ -52,6 +60,10 @@ def extract_nutrients(food):
             if match_nutrient(nutrient, keywords):
                 nutrients[key] = nutrient.get('amount', 0)
 
+    # Estimate calories if they are missing or zero
+    if nutrients['Calories'] == 0:
+        nutrients['Calories'] = estimate_calories(nutrients['Protein'], nutrients['Total Fat'], nutrients['Carbohydrates'])
+    
     total_score, protein_score, fiber_score, sat_fat_score = calculate_score(
         nutrients['Protein'], nutrients['Fiber'], nutrients['Saturated Fat'], nutrients['Calories']
     )

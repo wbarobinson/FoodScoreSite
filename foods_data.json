@@ -428,10 +428,10 @@
     },
     {
         "Food": "Salt, table, iodized",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 0.0,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
@@ -519,122 +519,122 @@
     },
     {
         "Food": "Beans, Dry, Medium Red (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.7,
+        "Protein Score": 18.3,
+        "Fiber Score": 15.4,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Red (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 34.5,
+        "Protein Score": 17.8,
+        "Fiber Score": 16.7,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Flor de Mayo (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 34.4,
+        "Protein Score": 18.5,
+        "Fiber Score": 15.9,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Brown (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 32.8,
+        "Protein Score": 18.2,
+        "Fiber Score": 14.6,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Tan (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.3,
+        "Protein Score": 18.3,
+        "Fiber Score": 15.0,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Light Tan (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.5,
+        "Protein Score": 17.9,
+        "Fiber Score": 15.6,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Carioca (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.5,
+        "Protein Score": 17.7,
+        "Fiber Score": 15.8,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Cranberry (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.8,
+        "Protein Score": 18.0,
+        "Fiber Score": 15.8,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Light Red Kidney (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 34.8,
+        "Protein Score": 18.3,
+        "Fiber Score": 16.5,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Pink (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.6,
+        "Protein Score": 17.9,
+        "Fiber Score": 15.7,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Dark Red Kidney (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 32.9,
+        "Protein Score": 18.0,
+        "Fiber Score": 14.9,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Navy (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.1,
+        "Protein Score": 17.5,
+        "Fiber Score": 15.6,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Small White (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.5,
+        "Protein Score": 17.8,
+        "Fiber Score": 15.7,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Small Red (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.3,
+        "Protein Score": 17.8,
+        "Fiber Score": 15.5,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Black (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 32.8,
+        "Protein Score": 17.6,
+        "Fiber Score": 15.2,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Pinto (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.4,
+        "Protein Score": 17.9,
+        "Fiber Score": 15.5,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, Dry, Great Northern (0% moisture)",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 33.6,
+        "Protein Score": 18.0,
+        "Fiber Score": 15.6,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Broccoli, raw",
@@ -666,31 +666,31 @@
     },
     {
         "Food": "Oil, canola",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -4406.7,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -4406.7
     },
     {
         "Food": "Oil, corn",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -8933.3,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -8933.3
     },
     {
         "Food": "Oil, soybean",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -9933.3,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -9933.3
     },
     {
         "Food": "Oil, olive, extra virgin",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -10266.7,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -10266.7
     },
     {
         "Food": "Eggs, Grade A, Large, egg whole",
@@ -708,10 +708,10 @@
     },
     {
         "Food": "Butter, stick, unsalted",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 0.0,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, wheat, all-purpose, enriched, bleached",
@@ -764,10 +764,10 @@
     },
     {
         "Food": "Butter, stick, salted",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -41.1,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -41.1
     },
     {
         "Food": "Onions, red, raw",
@@ -883,31 +883,31 @@
     },
     {
         "Food": "Oil, peanut",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -10800.0,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -10800.0
     },
     {
         "Food": "Oil, sunflower",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -5993.3,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -5993.3
     },
     {
         "Food": "Oil, safflower",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -5100.0,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -5100.0
     },
     {
         "Food": "Oil, olive, extra light",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": -10533.3,
+        "Protein Score": 0.0,
+        "Fiber Score": 0.0,
+        "Saturated Fat Score": -10533.3
     },
     {
         "Food": "Mushroom, lion's mane",
@@ -1905,17 +1905,17 @@
     },
     {
         "Food": "Squash, summer, green, zucchini, includes skin, raw",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 65.6,
+        "Protein Score": 13.6,
+        "Fiber Score": 52.0,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Squash, summer, yellow, includes skin, raw",
-        "Total Score": 0,
-        "Protein Score": 0,
-        "Fiber Score": 0,
-        "Saturated Fat Score": 0
+        "Total Score": 94.9,
+        "Protein Score": 14.9,
+        "Fiber Score": 80.0,
+        "Saturated Fat Score": -0.0
     },
     {
         "Food": "Squash, winter, butternut, raw",
