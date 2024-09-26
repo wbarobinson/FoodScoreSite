@@ -88,11 +88,11 @@ def extract_nutrients(food):
                 nutrients[key] = nutrient.get('amount', 0)  # Use 0 if amount is not present
                 break  # Stop further checks once a match is found
 
-    # Skip foods missing any essential nutrient data (Protein, Total Fat, Carbohydrates, Calories)
-    essential_nutrients = ['Protein', 'Total Fat', 'Carbohydrates', 'Calories']
-    if any(nutrients[n] is None for n in essential_nutrients):
-        logging.warning(f"Skipping {food_name} due to missing essential nutrient data: {nutrients}")
-        return None
+    # # Skip foods missing any essential nutrient data (Protein, Total Fat, Carbohydrates, Calories)
+    # essential_nutrients = ['Protein', 'Total Fat', 'Carbohydrates', 'Calories']
+    # if any(nutrients[n] is None for n in essential_nutrients):
+    #     logging.warning(f"Skipping {food_name} due to missing essential nutrient data: {nutrients}")
+    #     return None
 
     # Log the extracted nutrient amounts
     logging.debug(f"Nutrients extracted for {food_name}: {nutrients}")

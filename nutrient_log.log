@@ -681,3 +681,686 @@
 2024-09-26 07:08:17,181 - DEBUG - Nutrients extracted for Tomato, puree, canned: {'Protein': 1.58, 'Fiber': 1.97, 'Saturated Fat': 0, 'Calories': 34.8, 'Total Fat': 0.265, 'Carbohydrates': 8.04}
 2024-09-26 07:08:17,181 - DEBUG - Nutrients extracted for Tomato, puree, canned: {'Protein': 1.58, 'Fiber': 1.97, 'Saturated Fat': 0, 'Calories': 34.8, 'Total Fat': 0.265, 'Carbohydrates': 8.04}
 2024-09-26 07:08:17,184 - INFO - Data successfully saved to foods_data.json
+2024-09-26 07:15:59,348 - DEBUG - Nutrients extracted for Hummus, commercial: {'Protein': 7.35, 'Fiber': 5.4, 'Saturated Fat': 2.22, 'Calories': 229, 'Total Fat': 16.1, 'Carbohydrates': 14.9}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Hummus, commercial: {'Protein': 7.35, 'Fiber': 5.4, 'Saturated Fat': 2.22, 'Calories': 229, 'Total Fat': 16.1, 'Carbohydrates': 14.9}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Tomatoes, grape, raw: {'Protein': 0.83, 'Fiber': 2.1, 'Saturated Fat': 0, 'Calories': 113, 'Total Fat': 0.63, 'Carbohydrates': 5.51}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Tomatoes, grape, raw: {'Protein': 0.83, 'Fiber': 2.1, 'Saturated Fat': 0, 'Calories': 113, 'Total Fat': 0.63, 'Carbohydrates': 5.51}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Beans, snap, green, canned, regular pack, drained solids: {'Protein': 1.04, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 86.0, 'Total Fat': 0.39, 'Carbohydrates': 4.11}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Beans, snap, green, canned, regular pack, drained solids: {'Protein': 1.04, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 86.0, 'Total Fat': 0.39, 'Carbohydrates': 4.11}
+2024-09-26 07:15:59,349 - DEBUG - Nutrients extracted for Frankfurter, beef, unheated: {'Protein': 11.7, 'Fiber': 0, 'Saturated Fat': 11.4, 'Calories': 1310.0, 'Total Fat': 26.0, 'Carbohydrates': 2.89}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Frankfurter, beef, unheated: {'Protein': 11.7, 'Fiber': 0, 'Saturated Fat': 11.4, 'Calories': 1310.0, 'Total Fat': 26.0, 'Carbohydrates': 2.89}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Nuts, almonds, dry roasted, with salt added: {'Protein': 20.4, 'Fiber': 11.0, 'Saturated Fat': 4.56, 'Calories': 2590.0, 'Total Fat': 53.4, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Nuts, almonds, dry roasted, with salt added: {'Protein': 20.4, 'Fiber': 11.0, 'Saturated Fat': 4.56, 'Calories': 2590.0, 'Total Fat': 53.4, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Kale, raw: {'Protein': 2.92, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 35.0, 'Total Fat': 1.49, 'Carbohydrates': 4.42}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Kale, raw: {'Protein': 2.92, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 35.0, 'Total Fat': 1.49, 'Carbohydrates': 4.42}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Egg, whole, raw, frozen, pasteurized: {'Protein': 12.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 150, 'Total Fat': 10.3, 'Carbohydrates': 0.91}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Egg, whole, raw, frozen, pasteurized: {'Protein': 12.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 150, 'Total Fat': 10.3, 'Carbohydrates': 0.91}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Egg, white, raw, frozen, pasteurized: {'Protein': 10.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 201, 'Total Fat': 0.16, 'Carbohydrates': 0.74}
+2024-09-26 07:15:59,350 - DEBUG - Nutrients extracted for Egg, white, raw, frozen, pasteurized: {'Protein': 10.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 201, 'Total Fat': 0.16, 'Carbohydrates': 0.74}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Egg, white, dried: {'Protein': 79.9, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 376, 'Total Fat': 0.65, 'Carbohydrates': 6.02}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Egg, white, dried: {'Protein': 79.9, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 376, 'Total Fat': 0.65, 'Carbohydrates': 6.02}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Onion rings, breaded, par fried, frozen, prepared, heated in oven: {'Protein': 4.52, 'Fiber': 2.4, 'Saturated Fat': 2.15, 'Calories': 1210.0, 'Total Fat': 12.6, 'Carbohydrates': 36.3}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Onion rings, breaded, par fried, frozen, prepared, heated in oven: {'Protein': 4.52, 'Fiber': 2.4, 'Saturated Fat': 2.15, 'Calories': 1210.0, 'Total Fat': 12.6, 'Carbohydrates': 36.3}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Pickles, cucumber, dill or kosher dill: {'Protein': 0.48, 'Fiber': 1.0, 'Saturated Fat': 0, 'Calories': 12.0, 'Total Fat': 0.43, 'Carbohydrates': 1.99}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Pickles, cucumber, dill or kosher dill: {'Protein': 0.48, 'Fiber': 1.0, 'Saturated Fat': 0, 'Calories': 12.0, 'Total Fat': 0.43, 'Carbohydrates': 1.99}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Cheese, parmesan, grated: {'Protein': 29.6, 'Fiber': 0, 'Saturated Fat': 15.5, 'Calories': 1760.0, 'Total Fat': 24.0, 'Carbohydrates': 12.4}
+2024-09-26 07:15:59,351 - DEBUG - Nutrients extracted for Cheese, parmesan, grated: {'Protein': 29.6, 'Fiber': 0, 'Saturated Fat': 15.5, 'Calories': 1760.0, 'Total Fat': 24.0, 'Carbohydrates': 12.4}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Cheese, pasteurized process, American, vitamin D fortified: {'Protein': 18.0, 'Fiber': 0, 'Saturated Fat': 18.1, 'Calories': 366, 'Total Fat': 27.6, 'Carbohydrates': 5.27}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Cheese, pasteurized process, American, vitamin D fortified: {'Protein': 18.0, 'Fiber': 0, 'Saturated Fat': 18.1, 'Calories': 366, 'Total Fat': 27.6, 'Carbohydrates': 5.27}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Grapefruit juice, white, canned or bottled, unsweetened: {'Protein': 0.55, 'Fiber': 0.2, 'Saturated Fat': 0, 'Calories': 37.0, 'Total Fat': 0.7, 'Carbohydrates': 7.59}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Grapefruit juice, white, canned or bottled, unsweetened: {'Protein': 0.55, 'Fiber': 0.2, 'Saturated Fat': 0, 'Calories': 37.0, 'Total Fat': 0.7, 'Carbohydrates': 7.59}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Peaches, yellow, raw: {'Protein': 0.91, 'Fiber': 1.5, 'Saturated Fat': 0, 'Calories': 174, 'Total Fat': 0.27, 'Carbohydrates': 10.1}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Peaches, yellow, raw: {'Protein': 0.91, 'Fiber': 1.5, 'Saturated Fat': 0, 'Calories': 174, 'Total Fat': 0.27, 'Carbohydrates': 10.1}
+2024-09-26 07:15:59,352 - DEBUG - Nutrients extracted for Seeds, sunflower seed kernels, dry roasted, with salt added: {'Protein': 21.0, 'Fiber': 10.3, 'Saturated Fat': 5.36, 'Calories': 2560.0, 'Total Fat': 52.1, 'Carbohydrates': 17.1}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Seeds, sunflower seed kernels, dry roasted, with salt added: {'Protein': 21.0, 'Fiber': 10.3, 'Saturated Fat': 5.36, 'Calories': 2560.0, 'Total Fat': 52.1, 'Carbohydrates': 17.1}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Bread, white, commercially prepared: {'Protein': 9.43, 'Fiber': 2.3, 'Saturated Fat': 0.821, 'Calories': 1130.0, 'Total Fat': 3.45, 'Carbohydrates': 49.2}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Bread, white, commercially prepared: {'Protein': 9.43, 'Fiber': 2.3, 'Saturated Fat': 0.821, 'Calories': 1130.0, 'Total Fat': 3.45, 'Carbohydrates': 49.2}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Kale, frozen, cooked, boiled, drained, without salt: {'Protein': 2.94, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 151, 'Total Fat': 1.21, 'Carbohydrates': 5.3}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Kale, frozen, cooked, boiled, drained, without salt: {'Protein': 2.94, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 151, 'Total Fat': 1.21, 'Carbohydrates': 5.3}
+2024-09-26 07:15:59,353 - DEBUG - Nutrients extracted for Mustard, prepared, yellow: {'Protein': 4.25, 'Fiber': 4.3, 'Saturated Fat': 0.252, 'Calories': 61.0, 'Total Fat': 3.76, 'Carbohydrates': 5.3}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Mustard, prepared, yellow: {'Protein': 4.25, 'Fiber': 4.3, 'Saturated Fat': 0.252, 'Calories': 61.0, 'Total Fat': 3.76, 'Carbohydrates': 5.3}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Kiwifruit, green, raw: {'Protein': 1.06, 'Fiber': 3.0, 'Saturated Fat': 0, 'Calories': 241, 'Total Fat': 0.44, 'Carbohydrates': 14.0}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Kiwifruit, green, raw: {'Protein': 1.06, 'Fiber': 3.0, 'Saturated Fat': 0, 'Calories': 241, 'Total Fat': 0.44, 'Carbohydrates': 14.0}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Nectarines, raw: {'Protein': 1.06, 'Fiber': 1.5, 'Saturated Fat': 0.0, 'Calories': 39.0, 'Total Fat': 0.13, 'Carbohydrates': 9.18}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Nectarines, raw: {'Protein': 1.06, 'Fiber': 1.5, 'Saturated Fat': 0.0, 'Calories': 39.0, 'Total Fat': 0.13, 'Carbohydrates': 9.18}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Cheese, cheddar: {'Protein': 23.3, 'Fiber': 0, 'Saturated Fat': 19.2, 'Calories': 1710.0, 'Total Fat': 29.0, 'Carbohydrates': 2.44}
+2024-09-26 07:15:59,354 - DEBUG - Nutrients extracted for Cheese, cheddar: {'Protein': 23.3, 'Fiber': 0, 'Saturated Fat': 19.2, 'Calories': 1710.0, 'Total Fat': 29.0, 'Carbohydrates': 2.44}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Cheese, cottage, lowfat, 2% milkfat: {'Protein': 11.0, 'Fiber': 0, 'Saturated Fat': 1.26, 'Calories': 352, 'Total Fat': 1.87, 'Carbohydrates': 4.31}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Cheese, cottage, lowfat, 2% milkfat: {'Protein': 11.0, 'Fiber': 0, 'Saturated Fat': 1.26, 'Calories': 352, 'Total Fat': 1.87, 'Carbohydrates': 4.31}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Cheese, mozzarella, low moisture, part-skim: {'Protein': 23.7, 'Fiber': 0, 'Saturated Fat': 11.7, 'Calories': 298, 'Total Fat': 17.8, 'Carbohydrates': 4.44}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Cheese, mozzarella, low moisture, part-skim: {'Protein': 23.7, 'Fiber': 0, 'Saturated Fat': 11.7, 'Calories': 298, 'Total Fat': 17.8, 'Carbohydrates': 4.44}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, whole, dried: {'Protein': 48.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 575, 'Total Fat': 39.8, 'Carbohydrates': 1.87}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, whole, dried: {'Protein': 48.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 575, 'Total Fat': 39.8, 'Carbohydrates': 1.87}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, yolk, raw, frozen, pasteurized: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1240.0, 'Total Fat': 25.1, 'Carbohydrates': 0.59}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, yolk, raw, frozen, pasteurized: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1240.0, 'Total Fat': 25.1, 'Carbohydrates': 0.59}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, yolk, dried: {'Protein': 34.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 2740.0, 'Total Fat': 55.5, 'Carbohydrates': 1.07}
+2024-09-26 07:15:59,355 - DEBUG - Nutrients extracted for Egg, yolk, dried: {'Protein': 34.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 2740.0, 'Total Fat': 55.5, 'Carbohydrates': 1.07}
+2024-09-26 07:15:59,356 - DEBUG - Nutrients extracted for Yogurt, Greek, plain, nonfat: {'Protein': 10.3, 'Fiber': 0, 'Saturated Fat': 0.108, 'Calories': 61.0, 'Total Fat': 0.17, 'Carbohydrates': 3.64}
+2024-09-26 07:15:59,356 - DEBUG - Nutrients extracted for Yogurt, Greek, plain, nonfat: {'Protein': 10.3, 'Fiber': 0, 'Saturated Fat': 0.108, 'Calories': 61.0, 'Total Fat': 0.17, 'Carbohydrates': 3.64}
+2024-09-26 07:15:59,356 - DEBUG - Nutrients extracted for Yogurt, Greek, strawberry, nonfat: {'Protein': 8.06, 'Fiber': 0.6, 'Saturated Fat': 0.103, 'Calories': 347, 'Total Fat': 0.15, 'Carbohydrates': 12.2}
+2024-09-26 07:15:59,356 - DEBUG - Nutrients extracted for Yogurt, Greek, strawberry, nonfat: {'Protein': 8.06, 'Fiber': 0.6, 'Saturated Fat': 0.103, 'Calories': 347, 'Total Fat': 0.15, 'Carbohydrates': 12.2}
+2024-09-26 07:15:59,356 - DEBUG - Nutrients extracted for Oil, coconut: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 82.5, 'Calories': 833, 'Total Fat': 90.5, 'Carbohydrates': 0.84}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Oil, coconut: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 82.5, 'Calories': 833, 'Total Fat': 90.5, 'Carbohydrates': 0.84}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Chicken, broilers or fryers, drumstick, meat only, cooked, braised: {'Protein': 23.9, 'Fiber': 0, 'Saturated Fat': 1.6, 'Calories': 156, 'Total Fat': 5.23, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Chicken, broilers or fryers, drumstick, meat only, cooked, braised: {'Protein': 23.9, 'Fiber': 0, 'Saturated Fat': 1.6, 'Calories': 156, 'Total Fat': 5.23, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised: {'Protein': 32.1, 'Fiber': 0, 'Saturated Fat': 1.01, 'Calories': 695, 'Total Fat': 3.05, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised: {'Protein': 32.1, 'Fiber': 0, 'Saturated Fat': 1.01, 'Calories': 695, 'Total Fat': 3.05, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Sauce, pasta, spaghetti/marinara, ready-to-serve: {'Protein': 1.41, 'Fiber': 1.8, 'Saturated Fat': 0.17, 'Calories': 186, 'Total Fat': 1.05, 'Carbohydrates': 8.05}
+2024-09-26 07:15:59,357 - DEBUG - Nutrients extracted for Sauce, pasta, spaghetti/marinara, ready-to-serve: {'Protein': 1.41, 'Fiber': 1.8, 'Saturated Fat': 0.17, 'Calories': 186, 'Total Fat': 1.05, 'Carbohydrates': 8.05}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Ham, sliced, pre-packaged, deli meat (96%fat free, water added): {'Protein': 16.7, 'Fiber': 0, 'Saturated Fat': 1.12, 'Calories': 106, 'Total Fat': 3.15, 'Carbohydrates': 0.27}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Ham, sliced, pre-packaged, deli meat (96%fat free, water added): {'Protein': 16.7, 'Fiber': 0, 'Saturated Fat': 1.12, 'Calories': 106, 'Total Fat': 3.15, 'Carbohydrates': 0.27}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Olives, green, Manzanilla, stuffed with pimiento: {'Protein': 1.15, 'Fiber': 4.0, 'Saturated Fat': 2.3, 'Calories': 543, 'Total Fat': 11.8, 'Carbohydrates': 4.96}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Olives, green, Manzanilla, stuffed with pimiento: {'Protein': 1.15, 'Fiber': 4.0, 'Saturated Fat': 2.3, 'Calories': 543, 'Total Fat': 11.8, 'Carbohydrates': 4.96}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Cookies, oatmeal, soft, with raisins: {'Protein': 5.79, 'Fiber': 3.3, 'Saturated Fat': 4.78, 'Calories': 1800.0, 'Total Fat': 13.7, 'Carbohydrates': 69.6}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Cookies, oatmeal, soft, with raisins: {'Protein': 5.79, 'Fiber': 3.3, 'Saturated Fat': 4.78, 'Calories': 1800.0, 'Total Fat': 13.7, 'Carbohydrates': 69.6}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Tomatoes, canned, red, ripe, diced: {'Protein': 0.84, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 76.0, 'Total Fat': 0.5, 'Carbohydrates': 3.32}
+2024-09-26 07:15:59,358 - DEBUG - Nutrients extracted for Tomatoes, canned, red, ripe, diced: {'Protein': 0.84, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 76.0, 'Total Fat': 0.5, 'Carbohydrates': 3.32}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, haddock, raw: {'Protein': 16.3, 'Fiber': 0, 'Saturated Fat': 0.093, 'Calories': 308, 'Total Fat': 0.32, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, haddock, raw: {'Protein': 16.3, 'Fiber': 0, 'Saturated Fat': 0.093, 'Calories': 308, 'Total Fat': 0.32, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, pollock, raw: {'Protein': 12.3, 'Fiber': 0, 'Saturated Fat': 0.128, 'Calories': 235, 'Total Fat': 0.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, pollock, raw: {'Protein': 12.3, 'Fiber': 0, 'Saturated Fat': 0.128, 'Calories': 235, 'Total Fat': 0.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, tuna, light, canned in water, drained solids: {'Protein': 19.0, 'Fiber': 0, 'Saturated Fat': 0.224, 'Calories': 376, 'Total Fat': 0.6, 'Carbohydrates': 0.08}
+2024-09-26 07:15:59,359 - DEBUG - Nutrients extracted for Fish, tuna, light, canned in water, drained solids: {'Protein': 19.0, 'Fiber': 0, 'Saturated Fat': 0.224, 'Calories': 376, 'Total Fat': 0.6, 'Carbohydrates': 0.08}
+2024-09-26 07:15:59,360 - DEBUG - Nutrients extracted for Restaurant, Chinese, fried rice, without meat: {'Protein': 3.84, 'Fiber': 0, 'Saturated Fat': 0.493, 'Calories': 729, 'Total Fat': 2.22, 'Carbohydrates': 32.5}
+2024-09-26 07:15:59,360 - DEBUG - Nutrients extracted for Restaurant, Chinese, fried rice, without meat: {'Protein': 3.84, 'Fiber': 0, 'Saturated Fat': 0.493, 'Calories': 729, 'Total Fat': 2.22, 'Carbohydrates': 32.5}
+2024-09-26 07:15:59,360 - DEBUG - Nutrients extracted for Restaurant, Latino, tamale, pork: {'Protein': 7.38, 'Fiber': 2.4, 'Saturated Fat': 2.69, 'Calories': 174, 'Total Fat': 7.98, 'Carbohydrates': 15.8}
+2024-09-26 07:15:59,360 - DEBUG - Nutrients extracted for Restaurant, Latino, tamale, pork: {'Protein': 7.38, 'Fiber': 2.4, 'Saturated Fat': 2.69, 'Calories': 174, 'Total Fat': 7.98, 'Carbohydrates': 15.8}
+2024-09-26 07:15:59,360 - DEBUG - Nutrients extracted for Restaurant, Latino, pupusas con frijoles (pupusas, bean): {'Protein': 5.59, 'Fiber': 5.8, 'Saturated Fat': 2.19, 'Calories': 229, 'Total Fat': 8.08, 'Carbohydrates': 31.5}
+2024-09-26 07:15:59,361 - DEBUG - Nutrients extracted for Restaurant, Latino, pupusas con frijoles (pupusas, bean): {'Protein': 5.59, 'Fiber': 5.8, 'Saturated Fat': 2.19, 'Calories': 229, 'Total Fat': 8.08, 'Carbohydrates': 31.5}
+2024-09-26 07:15:59,361 - DEBUG - Nutrients extracted for Bread, whole-wheat, commercially prepared: {'Protein': 12.3, 'Fiber': 6.0, 'Saturated Fat': 0.732, 'Calories': 1060.0, 'Total Fat': 2.98, 'Carbohydrates': 43.1}
+2024-09-26 07:15:59,361 - DEBUG - Nutrients extracted for Bread, whole-wheat, commercially prepared: {'Protein': 12.3, 'Fiber': 6.0, 'Saturated Fat': 0.732, 'Calories': 1060.0, 'Total Fat': 2.98, 'Carbohydrates': 43.1}
+2024-09-26 07:15:59,361 - DEBUG - Nutrients extracted for Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0" fat, select, cooked, roasted: {'Protein': 27.7, 'Fiber': 0, 'Saturated Fat': 2.47, 'Calories': 735, 'Total Fat': 5.56, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,361 - DEBUG - Nutrients extracted for Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0" fat, select, cooked, roasted: {'Protein': 27.7, 'Fiber': 0, 'Saturated Fat': 2.47, 'Calories': 735, 'Total Fat': 5.56, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, choice, raw: {'Protein': 22.8, 'Fiber': 0, 'Saturated Fat': 2.56, 'Calories': 648, 'Total Fat': 5.93, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, choice, raw: {'Protein': 22.8, 'Fiber': 0, 'Saturated Fat': 2.56, 'Calories': 648, 'Total Fat': 5.93, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, select, raw: {'Protein': 23.4, 'Fiber': 0, 'Saturated Fat': 0.953, 'Calories': 122, 'Total Fat': 2.23, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, select, raw: {'Protein': 23.4, 'Fiber': 0, 'Saturated Fat': 0.953, 'Calories': 122, 'Total Fat': 2.23, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, select, raw: {'Protein': 23.7, 'Fiber': 0, 'Saturated Fat': 0.924, 'Calories': 514, 'Total Fat': 2.14, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, select, raw: {'Protein': 23.7, 'Fiber': 0, 'Saturated Fat': 0.924, 'Calories': 514, 'Total Fat': 2.14, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, select, raw: {'Protein': 22.7, 'Fiber': 0, 'Saturated Fat': 2.07, 'Calories': 606, 'Total Fat': 4.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,362 - DEBUG - Nutrients extracted for Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, select, raw: {'Protein': 22.7, 'Fiber': 0, 'Saturated Fat': 2.07, 'Calories': 606, 'Total Fat': 4.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, cooked, grilled: {'Protein': 27.3, 'Fiber': 0, 'Saturated Fat': 4.68, 'Calories': 219, 'Total Fat': 10.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, cooked, grilled: {'Protein': 27.3, 'Fiber': 0, 'Saturated Fat': 4.68, 'Calories': 219, 'Total Fat': 10.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Carrots, frozen, unprepared: {'Protein': 0.81, 'Fiber': 3.2, 'Saturated Fat': 0.0, 'Calories': 153, 'Total Fat': 0.33, 'Carbohydrates': 7.92}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Carrots, frozen, unprepared: {'Protein': 0.81, 'Fiber': 3.2, 'Saturated Fat': 0.0, 'Calories': 153, 'Total Fat': 0.33, 'Carbohydrates': 7.92}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Cheese, dry white, queso seco: {'Protein': 24.5, 'Fiber': 0, 'Saturated Fat': 13.7, 'Calories': 326, 'Total Fat': 21.4, 'Carbohydrates': 2.07}
+2024-09-26 07:15:59,363 - DEBUG - Nutrients extracted for Cheese, dry white, queso seco: {'Protein': 24.5, 'Fiber': 0, 'Saturated Fat': 13.7, 'Calories': 326, 'Total Fat': 21.4, 'Carbohydrates': 2.07}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Cheese, ricotta, whole milk: {'Protein': 7.81, 'Fiber': 0, 'Saturated Fat': 6.97, 'Calories': 157, 'Total Fat': 10.3, 'Carbohydrates': 6.86}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Cheese, ricotta, whole milk: {'Protein': 7.81, 'Fiber': 0, 'Saturated Fat': 6.97, 'Calories': 157, 'Total Fat': 10.3, 'Carbohydrates': 6.86}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Cheese, swiss: {'Protein': 27.0, 'Fiber': 0, 'Saturated Fat': 18.2, 'Calories': 1640.0, 'Total Fat': 27.6, 'Carbohydrates': 1.44}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Cheese, swiss: {'Protein': 27.0, 'Fiber': 0, 'Saturated Fat': 18.2, 'Calories': 1640.0, 'Total Fat': 27.6, 'Carbohydrates': 1.44}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Figs, dried, uncooked: {'Protein': 3.3, 'Fiber': 9.8, 'Saturated Fat': 0, 'Calories': 249, 'Total Fat': 0.92, 'Carbohydrates': 63.9}
+2024-09-26 07:15:59,364 - DEBUG - Nutrients extracted for Figs, dried, uncooked: {'Protein': 3.3, 'Fiber': 9.8, 'Saturated Fat': 0, 'Calories': 249, 'Total Fat': 0.92, 'Carbohydrates': 63.9}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Lettuce, cos or romaine, raw: {'Protein': 1.24, 'Fiber': 1.8, 'Saturated Fat': 0, 'Calories': 70.0, 'Total Fat': 0.26, 'Carbohydrates': 3.24}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Lettuce, cos or romaine, raw: {'Protein': 1.24, 'Fiber': 1.8, 'Saturated Fat': 0, 'Calories': 70.0, 'Total Fat': 0.26, 'Carbohydrates': 3.24}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Melons, cantaloupe, raw: {'Protein': 0.82, 'Fiber': 0.8, 'Saturated Fat': 0, 'Calories': 141, 'Total Fat': 0.18, 'Carbohydrates': 8.16}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Melons, cantaloupe, raw: {'Protein': 0.82, 'Fiber': 0.8, 'Saturated Fat': 0, 'Calories': 141, 'Total Fat': 0.18, 'Carbohydrates': 8.16}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Oranges, raw, navels: {'Protein': 0.91, 'Fiber': 2.0, 'Saturated Fat': 0, 'Calories': 196, 'Total Fat': 0.15, 'Carbohydrates': 11.8}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Oranges, raw, navels: {'Protein': 0.91, 'Fiber': 2.0, 'Saturated Fat': 0, 'Calories': 196, 'Total Fat': 0.15, 'Carbohydrates': 11.8}
+2024-09-26 07:15:59,365 - DEBUG - Nutrients extracted for Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D: {'Protein': 3.38, 'Fiber': 0, 'Saturated Fat': 0.568, 'Calories': 43.0, 'Total Fat': 0.85, 'Carbohydrates': 5.18}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D: {'Protein': 3.38, 'Fiber': 0, 'Saturated Fat': 0.568, 'Calories': 43.0, 'Total Fat': 0.85, 'Carbohydrates': 5.18}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Pears, raw, bartlett: {'Protein': 0.38, 'Fiber': 3.1, 'Saturated Fat': 0, 'Calories': 57.0, 'Total Fat': 0.16, 'Carbohydrates': 15.1}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Pears, raw, bartlett: {'Protein': 0.38, 'Fiber': 3.1, 'Saturated Fat': 0, 'Calories': 57.0, 'Total Fat': 0.16, 'Carbohydrates': 15.1}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Restaurant, Chinese, sweet and sour pork: {'Protein': 8.88, 'Fiber': 1.0, 'Saturated Fat': 2.68, 'Calories': 260, 'Total Fat': 13.3, 'Carbohydrates': 25.5}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Restaurant, Chinese, sweet and sour pork: {'Protein': 8.88, 'Fiber': 1.0, 'Saturated Fat': 2.68, 'Calories': 260, 'Total Fat': 13.3, 'Carbohydrates': 25.5}
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Salt, table, iodized: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,366 - DEBUG - Estimated calories for Salt, table, iodized from macronutrients: Protein=0g, Fat=0g, Carbs=0g -> Estimated Calories=0
+2024-09-26 07:15:59,366 - DEBUG - Nutrients extracted for Salt, table, iodized: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,366 - DEBUG - Estimated calories for Salt, table, iodized from macronutrients: Protein=0g, Fat=0g, Carbs=0g -> Estimated Calories=0
+2024-09-26 07:15:59,367 - DEBUG - Nutrients extracted for Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim): {'Protein': 3.43, 'Fiber': 0, 'Saturated Fat': 0.049, 'Calories': 144, 'Total Fat': 0.07, 'Carbohydrates': 4.92}
+2024-09-26 07:15:59,367 - DEBUG - Nutrients extracted for Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim): {'Protein': 3.43, 'Fiber': 0, 'Saturated Fat': 0.049, 'Calories': 144, 'Total Fat': 0.07, 'Carbohydrates': 4.92}
+2024-09-26 07:15:59,367 - DEBUG - Nutrients extracted for Sauce, salsa, ready-to-serve: {'Protein': 1.44, 'Fiber': 1.8, 'Saturated Fat': 0, 'Calories': 29.0, 'Total Fat': 0.19, 'Carbohydrates': 6.74}
+2024-09-26 07:15:59,367 - DEBUG - Nutrients extracted for Sauce, salsa, ready-to-serve: {'Protein': 1.44, 'Fiber': 1.8, 'Saturated Fat': 0, 'Calories': 29.0, 'Total Fat': 0.19, 'Carbohydrates': 6.74}
+2024-09-26 07:15:59,367 - DEBUG - Nutrients extracted for Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D: {'Protein': 3.36, 'Fiber': 0, 'Saturated Fat': 1.11, 'Calories': 50.0, 'Total Fat': 1.64, 'Carbohydrates': 4.9}
+2024-09-26 07:15:59,368 - DEBUG - Nutrients extracted for Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D: {'Protein': 3.36, 'Fiber': 0, 'Saturated Fat': 1.11, 'Calories': 50.0, 'Total Fat': 1.64, 'Carbohydrates': 4.9}
+2024-09-26 07:15:59,368 - DEBUG - Nutrients extracted for Sausage, breakfast sausage, beef, pre-cooked, unprepared: {'Protein': 13.3, 'Fiber': 0, 'Saturated Fat': 11.3, 'Calories': 1370.0, 'Total Fat': 27.1, 'Carbohydrates': 3.37}
+2024-09-26 07:15:59,368 - DEBUG - Nutrients extracted for Sausage, breakfast sausage, beef, pre-cooked, unprepared: {'Protein': 13.3, 'Fiber': 0, 'Saturated Fat': 11.3, 'Calories': 1370.0, 'Total Fat': 27.1, 'Carbohydrates': 3.37}
+2024-09-26 07:15:59,368 - DEBUG - Nutrients extracted for Sausage, Italian, pork, mild, cooked, pan-fried: {'Protein': 18.2, 'Fiber': 0, 'Saturated Fat': 9.15, 'Calories': 1350.0, 'Total Fat': 25.8, 'Carbohydrates': 2.15}
+2024-09-26 07:15:59,368 - DEBUG - Nutrients extracted for Sausage, Italian, pork, mild, cooked, pan-fried: {'Protein': 18.2, 'Fiber': 0, 'Saturated Fat': 9.15, 'Calories': 1350.0, 'Total Fat': 25.8, 'Carbohydrates': 2.15}
+2024-09-26 07:15:59,369 - DEBUG - Nutrients extracted for Sausage, pork, chorizo, link or ground, cooked, pan-fried: {'Protein': 19.3, 'Fiber': 0, 'Saturated Fat': 9.45, 'Calories': 1450.0, 'Total Fat': 26.0, 'Carbohydrates': 2.63}
+2024-09-26 07:15:59,369 - DEBUG - Nutrients extracted for Sausage, pork, chorizo, link or ground, cooked, pan-fried: {'Protein': 19.3, 'Fiber': 0, 'Saturated Fat': 9.45, 'Calories': 1450.0, 'Total Fat': 26.0, 'Carbohydrates': 2.63}
+2024-09-26 07:15:59,369 - DEBUG - Nutrients extracted for Milk, whole, 3.25% milkfat, with added vitamin D: {'Protein': 3.27, 'Fiber': 0, 'Saturated Fat': 1.86, 'Calories': 251, 'Total Fat': 2.77, 'Carbohydrates': 4.63}
+2024-09-26 07:15:59,369 - DEBUG - Nutrients extracted for Milk, whole, 3.25% milkfat, with added vitamin D: {'Protein': 3.27, 'Fiber': 0, 'Saturated Fat': 1.86, 'Calories': 251, 'Total Fat': 2.77, 'Carbohydrates': 4.63}
+2024-09-26 07:15:59,369 - DEBUG - Nutrients extracted for Sausage, turkey, breakfast links, mild, raw: {'Protein': 16.7, 'Fiber': 0, 'Saturated Fat': 2.53, 'Calories': 169, 'Total Fat': 8.86, 'Carbohydrates': 0.93}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Sausage, turkey, breakfast links, mild, raw: {'Protein': 16.7, 'Fiber': 0, 'Saturated Fat': 2.53, 'Calories': 169, 'Total Fat': 8.86, 'Carbohydrates': 0.93}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Sugars, granulated: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 385, 'Total Fat': 0.32, 'Carbohydrates': 99.6}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Sugars, granulated: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 385, 'Total Fat': 0.32, 'Carbohydrates': 99.6}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles: {'Protein': 27.1, 'Fiber': 0, 'Saturated Fat': 2.97, 'Calories': 922, 'Total Fat': 10.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles: {'Protein': 27.1, 'Fiber': 0, 'Saturated Fat': 2.97, 'Calories': 922, 'Total Fat': 10.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Ham, sliced, restaurant: {'Protein': 19.6, 'Fiber': 0, 'Saturated Fat': 1.25, 'Calories': 507, 'Total Fat': 3.54, 'Carbohydrates': 2.36}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Ham, sliced, restaurant: {'Protein': 19.6, 'Fiber': 0, 'Saturated Fat': 1.25, 'Calories': 507, 'Total Fat': 3.54, 'Carbohydrates': 2.36}
+2024-09-26 07:15:59,370 - DEBUG - Nutrients extracted for Cheese, American, restaurant: {'Protein': 17.5, 'Fiber': 0, 'Saturated Fat': 17.7, 'Calories': 1570.0, 'Total Fat': 26.6, 'Carbohydrates': 6.35}
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Cheese, American, restaurant: {'Protein': 17.5, 'Fiber': 0, 'Saturated Fat': 17.7, 'Calories': 1570.0, 'Total Fat': 26.6, 'Carbohydrates': 6.35}
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Medium Red (0% moisture): {'Protein': 25.5, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.04, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Medium Red (0% moisture) from macronutrients: Protein=25.5g, Fat=1.04g, Carbs=0g -> Estimated Calories=111.36
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Medium Red (0% moisture): {'Protein': 25.5, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.04, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Medium Red (0% moisture) from macronutrients: Protein=25.5g, Fat=1.04g, Carbs=0g -> Estimated Calories=111.36
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Red (0% moisture): {'Protein': 21.3, 'Fiber': 4.0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.16, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Red (0% moisture) from macronutrients: Protein=21.3g, Fat=1.16g, Carbs=0g -> Estimated Calories=95.64
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Red (0% moisture): {'Protein': 21.3, 'Fiber': 4.0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.16, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Red (0% moisture) from macronutrients: Protein=21.3g, Fat=1.16g, Carbs=0g -> Estimated Calories=95.64
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Flor de Mayo (0% moisture): {'Protein': 23.3, 'Fiber': 4.0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.86, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Flor de Mayo (0% moisture) from macronutrients: Protein=23.3g, Fat=0.86g, Carbs=0g -> Estimated Calories=100.94
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Flor de Mayo (0% moisture): {'Protein': 23.3, 'Fiber': 4.0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.86, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Flor de Mayo (0% moisture) from macronutrients: Protein=23.3g, Fat=0.86g, Carbs=0g -> Estimated Calories=100.94
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Brown (0% moisture): {'Protein': 25.6, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.12, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Brown (0% moisture) from macronutrients: Protein=25.6g, Fat=1.12g, Carbs=0g -> Estimated Calories=112.48
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Brown (0% moisture): {'Protein': 25.6, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.12, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Brown (0% moisture) from macronutrients: Protein=25.6g, Fat=1.12g, Carbs=0g -> Estimated Calories=112.48
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Tan (0% moisture): {'Protein': 26.8, 'Fiber': 4.4, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.14, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Tan (0% moisture) from macronutrients: Protein=26.8g, Fat=1.14g, Carbs=0g -> Estimated Calories=117.46000000000001
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Tan (0% moisture): {'Protein': 26.8, 'Fiber': 4.4, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.14, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Tan (0% moisture) from macronutrients: Protein=26.8g, Fat=1.14g, Carbs=0g -> Estimated Calories=117.46000000000001
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Light Tan (0% moisture): {'Protein': 24.6, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.28, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Light Tan (0% moisture) from macronutrients: Protein=24.6g, Fat=1.28g, Carbs=0g -> Estimated Calories=109.92
+2024-09-26 07:15:59,371 - DEBUG - Nutrients extracted for Beans, Dry, Light Tan (0% moisture): {'Protein': 24.6, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.28, 'Carbohydrates': 0}
+2024-09-26 07:15:59,371 - DEBUG - Estimated calories for Beans, Dry, Light Tan (0% moisture) from macronutrients: Protein=24.6g, Fat=1.28g, Carbs=0g -> Estimated Calories=109.92
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Carioca (0% moisture): {'Protein': 25.2, 'Fiber': 4.5, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.44, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Carioca (0% moisture) from macronutrients: Protein=25.2g, Fat=1.44g, Carbs=0g -> Estimated Calories=113.75999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Carioca (0% moisture): {'Protein': 25.2, 'Fiber': 4.5, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.44, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Carioca (0% moisture) from macronutrients: Protein=25.2g, Fat=1.44g, Carbs=0g -> Estimated Calories=113.75999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Cranberry (0% moisture): {'Protein': 24.4, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.23, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Cranberry (0% moisture) from macronutrients: Protein=24.4g, Fat=1.23g, Carbs=0g -> Estimated Calories=108.66999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Cranberry (0% moisture): {'Protein': 24.4, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.23, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Cranberry (0% moisture) from macronutrients: Protein=24.4g, Fat=1.23g, Carbs=0g -> Estimated Calories=108.66999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Light Red Kidney (0% moisture): {'Protein': 25.0, 'Fiber': 4.5, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.03, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Light Red Kidney (0% moisture) from macronutrients: Protein=25.0g, Fat=1.03g, Carbs=0g -> Estimated Calories=109.27
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Light Red Kidney (0% moisture): {'Protein': 25.0, 'Fiber': 4.5, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.03, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Light Red Kidney (0% moisture) from macronutrients: Protein=25.0g, Fat=1.03g, Carbs=0g -> Estimated Calories=109.27
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Pink (0% moisture): {'Protein': 23.4, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Pink (0% moisture) from macronutrients: Protein=23.4g, Fat=1.2g, Carbs=0g -> Estimated Calories=104.39999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Pink (0% moisture): {'Protein': 23.4, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Pink (0% moisture) from macronutrients: Protein=23.4g, Fat=1.2g, Carbs=0g -> Estimated Calories=104.39999999999999
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Dark Red Kidney (0% moisture): {'Protein': 25.9, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.31, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Dark Red Kidney (0% moisture) from macronutrients: Protein=25.9g, Fat=1.31g, Carbs=0g -> Estimated Calories=115.39
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Dark Red Kidney (0% moisture): {'Protein': 25.9, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.31, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Dark Red Kidney (0% moisture) from macronutrients: Protein=25.9g, Fat=1.31g, Carbs=0g -> Estimated Calories=115.39
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Navy (0% moisture): {'Protein': 24.1, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.51, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Navy (0% moisture) from macronutrients: Protein=24.1g, Fat=1.51g, Carbs=0g -> Estimated Calories=109.99000000000001
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Navy (0% moisture): {'Protein': 24.1, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.51, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Navy (0% moisture) from macronutrients: Protein=24.1g, Fat=1.51g, Carbs=0g -> Estimated Calories=109.99000000000001
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Small White (0% moisture): {'Protein': 24.5, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.32, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Small White (0% moisture) from macronutrients: Protein=24.5g, Fat=1.32g, Carbs=0g -> Estimated Calories=109.88
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Small White (0% moisture): {'Protein': 24.5, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.32, 'Carbohydrates': 0}
+2024-09-26 07:15:59,372 - DEBUG - Estimated calories for Beans, Dry, Small White (0% moisture) from macronutrients: Protein=24.5g, Fat=1.32g, Carbs=0g -> Estimated Calories=109.88
+2024-09-26 07:15:59,372 - DEBUG - Nutrients extracted for Beans, Dry, Small Red (0% moisture): {'Protein': 23.5, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.28, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Small Red (0% moisture) from macronutrients: Protein=23.5g, Fat=1.28g, Carbs=0g -> Estimated Calories=105.52
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Small Red (0% moisture): {'Protein': 23.5, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.28, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Small Red (0% moisture) from macronutrients: Protein=23.5g, Fat=1.28g, Carbs=0g -> Estimated Calories=105.52
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Black (0% moisture): {'Protein': 24.4, 'Fiber': 4.2, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.45, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Black (0% moisture) from macronutrients: Protein=24.4g, Fat=1.45g, Carbs=0g -> Estimated Calories=110.64999999999999
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Black (0% moisture): {'Protein': 24.4, 'Fiber': 4.2, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.45, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Black (0% moisture) from macronutrients: Protein=24.4g, Fat=1.45g, Carbs=0g -> Estimated Calories=110.64999999999999
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Pinto (0% moisture): {'Protein': 23.7, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.24, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Pinto (0% moisture) from macronutrients: Protein=23.7g, Fat=1.24g, Carbs=0g -> Estimated Calories=105.96
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Pinto (0% moisture): {'Protein': 23.7, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.24, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Pinto (0% moisture) from macronutrients: Protein=23.7g, Fat=1.24g, Carbs=0g -> Estimated Calories=105.96
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Great Northern (0% moisture): {'Protein': 24.7, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.24, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Great Northern (0% moisture) from macronutrients: Protein=24.7g, Fat=1.24g, Carbs=0g -> Estimated Calories=109.96
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Beans, Dry, Great Northern (0% moisture): {'Protein': 24.7, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 1.24, 'Carbohydrates': 0}
+2024-09-26 07:15:59,373 - DEBUG - Estimated calories for Beans, Dry, Great Northern (0% moisture) from macronutrients: Protein=24.7g, Fat=1.24g, Carbs=0g -> Estimated Calories=109.96
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Broccoli, raw: {'Protein': 2.57, 'Fiber': 2.4, 'Saturated Fat': 0.039, 'Calories': 31.0, 'Total Fat': 0.07, 'Carbohydrates': 6.27}
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Broccoli, raw: {'Protein': 2.57, 'Fiber': 2.4, 'Saturated Fat': 0.039, 'Calories': 31.0, 'Total Fat': 0.07, 'Carbohydrates': 6.27}
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Ketchup, restaurant: {'Protein': 1.11, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 488, 'Total Fat': 0.55, 'Carbohydrates': 26.8}
+2024-09-26 07:15:59,373 - DEBUG - Nutrients extracted for Ketchup, restaurant: {'Protein': 1.11, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 488, 'Total Fat': 0.55, 'Carbohydrates': 26.8}
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg white: {'Protein': 10.7, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 55.0, 'Total Fat': 0.0, 'Carbohydrates': 2.36}
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg white: {'Protein': 10.7, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 55.0, 'Total Fat': 0.0, 'Carbohydrates': 2.36}
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg yolk: {'Protein': 16.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1400.0, 'Total Fat': 28.8, 'Carbohydrates': 1.02}
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg yolk: {'Protein': 16.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1400.0, 'Total Fat': 28.8, 'Carbohydrates': 1.02}
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, canola: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 6.61, 'Calories': 0, 'Total Fat': 94.5, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, canola from macronutrients: Protein=0g, Fat=94.5g, Carbs=0g -> Estimated Calories=850.5
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, canola: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 6.61, 'Calories': 0, 'Total Fat': 94.5, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, canola from macronutrients: Protein=0g, Fat=94.5g, Carbs=0g -> Estimated Calories=850.5
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, corn: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 13.4, 'Calories': 0, 'Total Fat': 94.0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, corn from macronutrients: Protein=0g, Fat=94.0g, Carbs=0g -> Estimated Calories=846.0
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, corn: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 13.4, 'Calories': 0, 'Total Fat': 94.0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, corn from macronutrients: Protein=0g, Fat=94.0g, Carbs=0g -> Estimated Calories=846.0
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, soybean: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 14.9, 'Calories': 0, 'Total Fat': 94.6, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, soybean from macronutrients: Protein=0g, Fat=94.6g, Carbs=0g -> Estimated Calories=851.4
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, soybean: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 14.9, 'Calories': 0, 'Total Fat': 94.6, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, soybean from macronutrients: Protein=0g, Fat=94.6g, Carbs=0g -> Estimated Calories=851.4
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, olive, extra virgin: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 15.4, 'Calories': 0, 'Total Fat': 93.7, 'Carbohydrates': 0}
+2024-09-26 07:15:59,374 - DEBUG - Estimated calories for Oil, olive, extra virgin from macronutrients: Protein=0g, Fat=93.7g, Carbs=0g -> Estimated Calories=843.3000000000001
+2024-09-26 07:15:59,374 - DEBUG - Nutrients extracted for Oil, olive, extra virgin: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 15.4, 'Calories': 0, 'Total Fat': 93.7, 'Carbohydrates': 0}
+2024-09-26 07:15:59,375 - DEBUG - Estimated calories for Oil, olive, extra virgin from macronutrients: Protein=0g, Fat=93.7g, Carbs=0g -> Estimated Calories=843.3000000000001
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg whole: {'Protein': 12.4, 'Fiber': 0.0, 'Saturated Fat': 3.2, 'Calories': 617, 'Total Fat': 8.65, 'Carbohydrates': 0.96}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Eggs, Grade A, Large, egg whole: {'Protein': 12.4, 'Fiber': 0.0, 'Saturated Fat': 3.2, 'Calories': 617, 'Total Fat': 8.65, 'Carbohydrates': 0.96}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Pork, cured, bacon, cooked, restaurant: {'Protein': 40.9, 'Fiber': 0, 'Saturated Fat': 12.6, 'Calories': 2090.0, 'Total Fat': 34.6, 'Carbohydrates': 2.1}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Pork, cured, bacon, cooked, restaurant: {'Protein': 40.9, 'Fiber': 0, 'Saturated Fat': 12.6, 'Calories': 2090.0, 'Total Fat': 34.6, 'Carbohydrates': 2.1}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Butter, stick, unsalted: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 81.5, 'Carbohydrates': 0}
+2024-09-26 07:15:59,375 - DEBUG - Estimated calories for Butter, stick, unsalted from macronutrients: Protein=0g, Fat=81.5g, Carbs=0g -> Estimated Calories=733.5
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Butter, stick, unsalted: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 81.5, 'Carbohydrates': 0}
+2024-09-26 07:15:59,375 - DEBUG - Estimated calories for Butter, stick, unsalted from macronutrients: Protein=0g, Fat=81.5g, Carbs=0g -> Estimated Calories=733.5
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, enriched, bleached: {'Protein': 10.9, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.48, 'Carbohydrates': 77.3}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, enriched, bleached: {'Protein': 10.9, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.48, 'Carbohydrates': 77.3}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, enriched, unbleached: {'Protein': 13.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 358, 'Total Fat': 1.48, 'Carbohydrates': 73.2}
+2024-09-26 07:15:59,375 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, enriched, unbleached: {'Protein': 13.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 358, 'Total Fat': 1.48, 'Carbohydrates': 73.2}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, unenriched, unbleached: {'Protein': 12.0, 'Fiber': 3.0, 'Saturated Fat': 0, 'Calories': 1510.0, 'Total Fat': 1.7, 'Carbohydrates': 74.6}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, wheat, all-purpose, unenriched, unbleached: {'Protein': 12.0, 'Fiber': 3.0, 'Saturated Fat': 0, 'Calories': 1510.0, 'Total Fat': 1.7, 'Carbohydrates': 74.6}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, whole wheat, unenriched: {'Protein': 15.1, 'Fiber': 10.6, 'Saturated Fat': 0, 'Calories': 1550.0, 'Total Fat': 2.73, 'Carbohydrates': 71.2}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, whole wheat, unenriched: {'Protein': 15.1, 'Fiber': 10.6, 'Saturated Fat': 0, 'Calories': 1550.0, 'Total Fat': 2.73, 'Carbohydrates': 71.2}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, bread, white, enriched, unbleached: {'Protein': 14.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1520.0, 'Total Fat': 1.65, 'Carbohydrates': 72.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, bread, white, enriched, unbleached: {'Protein': 14.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1520.0, 'Total Fat': 1.65, 'Carbohydrates': 72.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, rice, white, unenriched: {'Protein': 6.94, 'Fiber': 0.5, 'Saturated Fat': 0, 'Calories': 359, 'Total Fat': 1.3, 'Carbohydrates': 79.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, rice, white, unenriched: {'Protein': 6.94, 'Fiber': 0.5, 'Saturated Fat': 0, 'Calories': 359, 'Total Fat': 1.3, 'Carbohydrates': 79.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, corn, yellow, fine meal, enriched: {'Protein': 6.2, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 1520.0, 'Total Fat': 1.74, 'Carbohydrates': 80.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Flour, corn, yellow, fine meal, enriched: {'Protein': 6.2, 'Fiber': 4.3, 'Saturated Fat': 0, 'Calories': 1520.0, 'Total Fat': 1.74, 'Carbohydrates': 80.8}
+2024-09-26 07:15:59,376 - DEBUG - Nutrients extracted for Butter, stick, salted: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 45.6, 'Calories': 0, 'Total Fat': 65.0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,376 - DEBUG - Estimated calories for Butter, stick, salted from macronutrients: Protein=0g, Fat=65.0g, Carbs=0g -> Estimated Calories=585.0
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Butter, stick, salted: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 45.6, 'Calories': 0, 'Total Fat': 65.0, 'Carbohydrates': 0}
+2024-09-26 07:15:59,377 - DEBUG - Estimated calories for Butter, stick, salted from macronutrients: Protein=0g, Fat=65.0g, Carbs=0g -> Estimated Calories=585.0
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Onions, red, raw: {'Protein': 0.94, 'Fiber': 2.2, 'Saturated Fat': 0, 'Calories': 186, 'Total Fat': 0.1, 'Carbohydrates': 9.93}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Onions, red, raw: {'Protein': 0.94, 'Fiber': 2.2, 'Saturated Fat': 0, 'Calories': 186, 'Total Fat': 0.1, 'Carbohydrates': 9.93}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Onions, yellow, raw: {'Protein': 0.83, 'Fiber': 1.9, 'Saturated Fat': 0, 'Calories': 160, 'Total Fat': 0.05, 'Carbohydrates': 8.61}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Onions, yellow, raw: {'Protein': 0.83, 'Fiber': 1.9, 'Saturated Fat': 0, 'Calories': 160, 'Total Fat': 0.05, 'Carbohydrates': 8.61}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Garlic, raw: {'Protein': 6.62, 'Fiber': 2.7, 'Saturated Fat': 0, 'Calories': 597, 'Total Fat': 0.38, 'Carbohydrates': 28.2}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Garlic, raw: {'Protein': 6.62, 'Fiber': 2.7, 'Saturated Fat': 0, 'Calories': 597, 'Total Fat': 0.38, 'Carbohydrates': 28.2}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, soy, defatted: {'Protein': 51.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1530.0, 'Total Fat': 3.33, 'Carbohydrates': 32.9}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, soy, defatted: {'Protein': 51.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1530.0, 'Total Fat': 3.33, 'Carbohydrates': 32.9}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, soy, full-fat: {'Protein': 38.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1890.0, 'Total Fat': 20.7, 'Carbohydrates': 27.9}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, soy, full-fat: {'Protein': 38.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1890.0, 'Total Fat': 20.7, 'Carbohydrates': 27.9}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, rice, brown: {'Protein': 7.19, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 365, 'Total Fat': 3.85, 'Carbohydrates': 75.5}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, rice, brown: {'Protein': 7.19, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 365, 'Total Fat': 3.85, 'Carbohydrates': 75.5}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, rice, glutinous: {'Protein': 6.69, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1500.0, 'Total Fat': 1.16, 'Carbohydrates': 80.1}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, rice, glutinous: {'Protein': 6.69, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1500.0, 'Total Fat': 1.16, 'Carbohydrates': 80.1}
+2024-09-26 07:15:59,377 - DEBUG - Nutrients extracted for Flour, pastry, unenriched, unbleached: {'Protein': 8.75, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1500.0, 'Total Fat': 1.64, 'Carbohydrates': 77.2}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Flour, pastry, unenriched, unbleached: {'Protein': 8.75, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 1500.0, 'Total Fat': 1.64, 'Carbohydrates': 77.2}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Onions, white, raw: {'Protein': 0.89, 'Fiber': 1.2, 'Saturated Fat': 0, 'Calories': 148, 'Total Fat': 0.13, 'Carbohydrates': 7.68}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Onions, white, raw: {'Protein': 0.89, 'Fiber': 1.2, 'Saturated Fat': 0, 'Calories': 148, 'Total Fat': 0.13, 'Carbohydrates': 7.68}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Bananas, overripe, raw: {'Protein': 0.73, 'Fiber': 1.7, 'Saturated Fat': 0, 'Calories': 357, 'Total Fat': 0.22, 'Carbohydrates': 20.1}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Bananas, overripe, raw: {'Protein': 0.73, 'Fiber': 1.7, 'Saturated Fat': 0, 'Calories': 357, 'Total Fat': 0.22, 'Carbohydrates': 20.1}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Bananas, ripe and slightly ripe, raw: {'Protein': 0.74, 'Fiber': 1.7, 'Saturated Fat': 0, 'Calories': 97.0, 'Total Fat': 0.29, 'Carbohydrates': 23.0}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Bananas, ripe and slightly ripe, raw: {'Protein': 0.74, 'Fiber': 1.7, 'Saturated Fat': 0, 'Calories': 97.0, 'Total Fat': 0.29, 'Carbohydrates': 23.0}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, red delicious, with skin, raw: {'Protein': 0.188, 'Fiber': 2.04, 'Saturated Fat': 0, 'Calories': 55.6, 'Total Fat': 0.212, 'Carbohydrates': 14.8}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, red delicious, with skin, raw: {'Protein': 0.188, 'Fiber': 2.04, 'Saturated Fat': 0, 'Calories': 55.6, 'Total Fat': 0.212, 'Carbohydrates': 14.8}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, fuji, with skin, raw: {'Protein': 0.148, 'Fiber': 2.08, 'Saturated Fat': 0, 'Calories': 58.2, 'Total Fat': 0.162, 'Carbohydrates': 15.7}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, fuji, with skin, raw: {'Protein': 0.148, 'Fiber': 2.08, 'Saturated Fat': 0, 'Calories': 58.2, 'Total Fat': 0.162, 'Carbohydrates': 15.7}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, gala, with skin, raw: {'Protein': 0.133, 'Fiber': 2.11, 'Saturated Fat': 0, 'Calories': 54.9, 'Total Fat': 0.15, 'Carbohydrates': 14.8}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, gala, with skin, raw: {'Protein': 0.133, 'Fiber': 2.11, 'Saturated Fat': 0, 'Calories': 54.9, 'Total Fat': 0.15, 'Carbohydrates': 14.8}
+2024-09-26 07:15:59,378 - DEBUG - Nutrients extracted for Apples, granny smith, with skin, raw: {'Protein': 0.266, 'Fiber': 2.51, 'Saturated Fat': 0, 'Calories': 53.0, 'Total Fat': 0.138, 'Carbohydrates': 14.1}
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Apples, granny smith, with skin, raw: {'Protein': 0.266, 'Fiber': 2.51, 'Saturated Fat': 0, 'Calories': 53.0, 'Total Fat': 0.138, 'Carbohydrates': 14.1}
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Apples, honeycrisp, with skin, raw: {'Protein': 0.102, 'Fiber': 1.72, 'Saturated Fat': 0, 'Calories': 54.0, 'Total Fat': 0.1, 'Carbohydrates': 14.7}
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Apples, honeycrisp, with skin, raw: {'Protein': 0.102, 'Fiber': 1.72, 'Saturated Fat': 0, 'Calories': 54.0, 'Total Fat': 0.1, 'Carbohydrates': 14.7}
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Oil, peanut: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 16.2, 'Calories': 0, 'Total Fat': 93.4, 'Carbohydrates': 0}
+2024-09-26 07:15:59,379 - DEBUG - Estimated calories for Oil, peanut from macronutrients: Protein=0g, Fat=93.4g, Carbs=0g -> Estimated Calories=840.6
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Oil, peanut: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 16.2, 'Calories': 0, 'Total Fat': 93.4, 'Carbohydrates': 0}
+2024-09-26 07:15:59,379 - DEBUG - Estimated calories for Oil, peanut from macronutrients: Protein=0g, Fat=93.4g, Carbs=0g -> Estimated Calories=840.6
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Oil, sunflower: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 8.99, 'Calories': 0, 'Total Fat': 93.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,379 - DEBUG - Estimated calories for Oil, sunflower from macronutrients: Protein=0g, Fat=93.2g, Carbs=0g -> Estimated Calories=838.8000000000001
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Oil, sunflower: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 8.99, 'Calories': 0, 'Total Fat': 93.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,379 - DEBUG - Estimated calories for Oil, sunflower from macronutrients: Protein=0g, Fat=93.2g, Carbs=0g -> Estimated Calories=838.8000000000001
+2024-09-26 07:15:59,379 - DEBUG - Nutrients extracted for Oil, safflower: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 7.65, 'Calories': 0, 'Total Fat': 93.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,379 - DEBUG - Estimated calories for Oil, safflower from macronutrients: Protein=0g, Fat=93.2g, Carbs=0g -> Estimated Calories=838.8000000000001
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Oil, safflower: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 7.65, 'Calories': 0, 'Total Fat': 93.2, 'Carbohydrates': 0}
+2024-09-26 07:15:59,380 - DEBUG - Estimated calories for Oil, safflower from macronutrients: Protein=0g, Fat=93.2g, Carbs=0g -> Estimated Calories=838.8000000000001
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Oil, olive, extra light: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 15.8, 'Calories': 0, 'Total Fat': 92.9, 'Carbohydrates': 0}
+2024-09-26 07:15:59,380 - DEBUG - Estimated calories for Oil, olive, extra light from macronutrients: Protein=0g, Fat=92.9g, Carbs=0g -> Estimated Calories=836.1
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Oil, olive, extra light: {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 15.8, 'Calories': 0, 'Total Fat': 92.9, 'Carbohydrates': 0}
+2024-09-26 07:15:59,380 - DEBUG - Estimated calories for Oil, olive, extra light from macronutrients: Protein=0g, Fat=92.9g, Carbs=0g -> Estimated Calories=836.1
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushroom, lion's mane: {'Protein': 2.5, 'Fiber': 4.38, 'Saturated Fat': 0, 'Calories': 35.1, 'Total Fat': 0.256, 'Carbohydrates': 7.59}
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushroom, lion's mane: {'Protein': 2.5, 'Fiber': 4.38, 'Saturated Fat': 0, 'Calories': 35.1, 'Total Fat': 0.256, 'Carbohydrates': 7.59}
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushroom, oyster: {'Protein': 2.9, 'Fiber': 2.85, 'Saturated Fat': 0, 'Calories': 33.3, 'Total Fat': 0.188, 'Carbohydrates': 6.94}
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushroom, oyster: {'Protein': 2.9, 'Fiber': 2.85, 'Saturated Fat': 0, 'Calories': 33.3, 'Total Fat': 0.188, 'Carbohydrates': 6.94}
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushrooms, shiitake: {'Protein': 2.41, 'Fiber': 4.17, 'Saturated Fat': 0, 'Calories': 36.4, 'Total Fat': 0.195, 'Carbohydrates': 8.17}
+2024-09-26 07:15:59,380 - DEBUG - Nutrients extracted for Mushrooms, shiitake: {'Protein': 2.41, 'Fiber': 4.17, 'Saturated Fat': 0, 'Calories': 36.4, 'Total Fat': 0.195, 'Carbohydrates': 8.17}
+2024-09-26 07:15:59,381 - DEBUG - Nutrients extracted for Mushrooms, white button: {'Protein': 2.89, 'Fiber': 1.72, 'Saturated Fat': 0, 'Calories': 24.9, 'Total Fat': 0.371, 'Carbohydrates': 4.08}
+2024-09-26 07:15:59,381 - DEBUG - Nutrients extracted for Mushrooms, white button: {'Protein': 2.89, 'Fiber': 1.72, 'Saturated Fat': 0, 'Calories': 24.9, 'Total Fat': 0.371, 'Carbohydrates': 4.08}
+2024-09-26 07:15:59,381 - DEBUG - Nutrients extracted for Soy milk, unsweetened, plain, shelf stable: {'Protein': 3.55, 'Fiber': 0.0, 'Saturated Fat': 0.314, 'Calories': 38.5, 'Total Fat': 1.88, 'Carbohydrates': 1.29}
+2024-09-26 07:15:59,381 - DEBUG - Nutrients extracted for Soy milk, unsweetened, plain, shelf stable: {'Protein': 3.55, 'Fiber': 0.0, 'Saturated Fat': 0.314, 'Calories': 38.5, 'Total Fat': 1.88, 'Carbohydrates': 1.29}
+2024-09-26 07:15:59,381 - DEBUG - Nutrients extracted for Almond milk, unsweetened, plain, shelf stable: {'Protein': 0.555, 'Fiber': 0.0, 'Saturated Fat': 0.104, 'Calories': 14.6, 'Total Fat': 1.11, 'Carbohydrates': 0.337}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Almond milk, unsweetened, plain, shelf stable: {'Protein': 0.555, 'Fiber': 0.0, 'Saturated Fat': 0.104, 'Calories': 14.6, 'Total Fat': 1.11, 'Carbohydrates': 0.337}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Spinach, baby: {'Protein': 2.85, 'Fiber': 1.56, 'Saturated Fat': 0, 'Calories': 20.7, 'Total Fat': 0.619, 'Carbohydrates': 2.41}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Spinach, baby: {'Protein': 2.85, 'Fiber': 1.56, 'Saturated Fat': 0, 'Calories': 20.7, 'Total Fat': 0.619, 'Carbohydrates': 2.41}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Spinach, mature: {'Protein': 2.91, 'Fiber': 1.59, 'Saturated Fat': 0, 'Calories': 21.6, 'Total Fat': 0.604, 'Carbohydrates': 2.64}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Spinach, mature: {'Protein': 2.91, 'Fiber': 1.59, 'Saturated Fat': 0, 'Calories': 21.6, 'Total Fat': 0.604, 'Carbohydrates': 2.64}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Tomato, roma: {'Protein': 0.696, 'Fiber': 0.971, 'Saturated Fat': 0, 'Calories': 19.0, 'Total Fat': 0.425, 'Carbohydrates': 3.84}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Tomato, roma: {'Protein': 0.696, 'Fiber': 0.971, 'Saturated Fat': 0, 'Calories': 19.0, 'Total Fat': 0.425, 'Carbohydrates': 3.84}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, 00: {'Protein': 11.4, 'Fiber': 2.66, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.52, 'Carbohydrates': 74.4}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, 00: {'Protein': 11.4, 'Fiber': 2.66, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.52, 'Carbohydrates': 74.4}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, spelt, whole grain: {'Protein': 14.5, 'Fiber': 9.34, 'Saturated Fat': 0, 'Calories': 341, 'Total Fat': 2.54, 'Carbohydrates': 70.7}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, spelt, whole grain: {'Protein': 14.5, 'Fiber': 9.34, 'Saturated Fat': 0, 'Calories': 341, 'Total Fat': 2.54, 'Carbohydrates': 70.7}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, semolina, coarse and semi-coarse: {'Protein': 11.7, 'Fiber': 3.22, 'Saturated Fat': 0, 'Calories': 365, 'Total Fat': 1.6, 'Carbohydrates': 73.8}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, semolina, coarse and semi-coarse: {'Protein': 11.7, 'Fiber': 3.22, 'Saturated Fat': 0, 'Calories': 365, 'Total Fat': 1.6, 'Carbohydrates': 73.8}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, semolina, fine: {'Protein': 13.3, 'Fiber': 3.68, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.84, 'Carbohydrates': 72.0}
+2024-09-26 07:15:59,382 - DEBUG - Nutrients extracted for Flour, semolina, fine: {'Protein': 13.3, 'Fiber': 3.68, 'Saturated Fat': 0, 'Calories': 366, 'Total Fat': 1.84, 'Carbohydrates': 72.0}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Apple juice, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.086, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 47.2, 'Total Fat': 0.286, 'Carbohydrates': 11.4}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Apple juice, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.086, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 47.2, 'Total Fat': 0.286, 'Carbohydrates': 11.4}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Orange juice, no pulp, not fortified, from concentrate, refrigerated: {'Protein': 0.734, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 45.7, 'Total Fat': 0.325, 'Carbohydrates': 10.3}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Orange juice, no pulp, not fortified, from concentrate, refrigerated: {'Protein': 0.734, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 45.7, 'Total Fat': 0.325, 'Carbohydrates': 10.3}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grape juice, purple, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.258, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 64.5, 'Total Fat': 0.288, 'Carbohydrates': 15.6}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grape juice, purple, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.258, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 64.5, 'Total Fat': 0.288, 'Carbohydrates': 15.6}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grape juice, white, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.094, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 64.6, 'Total Fat': 0.265, 'Carbohydrates': 15.8}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grape juice, white, with added vitamin C, from concentrate, shelf stable: {'Protein': 0.094, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 64.6, 'Total Fat': 0.265, 'Carbohydrates': 15.8}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Cranberry juice, not fortified, from concentrate, shelf stable: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 31.3, 'Total Fat': 0.338, 'Carbohydrates': 7.26}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Cranberry juice, not fortified, from concentrate, shelf stable: {'Protein': 0.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 31.3, 'Total Fat': 0.338, 'Carbohydrates': 7.26}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grapefruit juice, red, not fortified, not from concentrate, refrigerated: {'Protein': 0.57, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 39.8, 'Total Fat': 0.267, 'Carbohydrates': 9.1}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Grapefruit juice, red, not fortified, not from concentrate, refrigerated: {'Protein': 0.57, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 39.8, 'Total Fat': 0.267, 'Carbohydrates': 9.1}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Tomato juice, with added ingredients, from concentrate, shelf stable: {'Protein': 0.859, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 19.9, 'Total Fat': 0.288, 'Carbohydrates': 4.32}
+2024-09-26 07:15:59,383 - DEBUG - Nutrients extracted for Tomato juice, with added ingredients, from concentrate, shelf stable: {'Protein': 0.859, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 19.9, 'Total Fat': 0.288, 'Carbohydrates': 4.32}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Orange juice, no pulp, not fortified, not from concentrate, refrigerated: {'Protein': 0.812, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 45.0, 'Total Fat': 0.356, 'Carbohydrates': 10.0}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Orange juice, no pulp, not fortified, not from concentrate, refrigerated: {'Protein': 0.812, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 45.0, 'Total Fat': 0.356, 'Carbohydrates': 10.0}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, portabella: {'Protein': 2.75, 'Fiber': 1.88, 'Saturated Fat': 0, 'Calories': 26.0, 'Total Fat': 0.312, 'Carbohydrates': 4.66}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, portabella: {'Protein': 2.75, 'Fiber': 1.88, 'Saturated Fat': 0, 'Calories': 26.0, 'Total Fat': 0.312, 'Carbohydrates': 4.66}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, king oyster: {'Protein': 2.41, 'Fiber': 3.01, 'Saturated Fat': 0, 'Calories': 38.5, 'Total Fat': 0.308, 'Carbohydrates': 8.5}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, king oyster: {'Protein': 2.41, 'Fiber': 3.01, 'Saturated Fat': 0, 'Calories': 38.5, 'Total Fat': 0.308, 'Carbohydrates': 8.5}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, enoki: {'Protein': 2.42, 'Fiber': 2.94, 'Saturated Fat': 0, 'Calories': 36.7, 'Total Fat': 0.245, 'Carbohydrates': 8.14}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, enoki: {'Protein': 2.42, 'Fiber': 2.94, 'Saturated Fat': 0, 'Calories': 36.7, 'Total Fat': 0.245, 'Carbohydrates': 8.14}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, crimini: {'Protein': 3.09, 'Fiber': 1.78, 'Saturated Fat': 0, 'Calories': 23.7, 'Total Fat': 0.197, 'Carbohydrates': 4.01}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, crimini: {'Protein': 3.09, 'Fiber': 1.78, 'Saturated Fat': 0, 'Calories': 23.7, 'Total Fat': 0.197, 'Carbohydrates': 4.01}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, maitake: {'Protein': 2.2, 'Fiber': 3.07, 'Saturated Fat': 0, 'Calories': 31.0, 'Total Fat': 0.265, 'Carbohydrates': 6.6}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, maitake: {'Protein': 2.2, 'Fiber': 3.07, 'Saturated Fat': 0, 'Calories': 31.0, 'Total Fat': 0.265, 'Carbohydrates': 6.6}
+2024-09-26 07:15:59,384 - DEBUG - Nutrients extracted for Mushroom, beech: {'Protein': 2.18, 'Fiber': 3.14, 'Saturated Fat': 0, 'Calories': 33.0, 'Total Fat': 0.449, 'Carbohydrates': 6.76}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Mushroom, beech: {'Protein': 2.18, 'Fiber': 3.14, 'Saturated Fat': 0, 'Calories': 33.0, 'Total Fat': 0.449, 'Carbohydrates': 6.76}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Mushroom, pioppini: {'Protein': 3.5, 'Fiber': 2.75, 'Saturated Fat': 0, 'Calories': 31.2, 'Total Fat': 0.24, 'Carbohydrates': 5.76}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Mushroom, pioppini: {'Protein': 3.5, 'Fiber': 2.75, 'Saturated Fat': 0, 'Calories': 31.2, 'Total Fat': 0.24, 'Carbohydrates': 5.76}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Soy milk, sweetened, plain, refrigerated: {'Protein': 2.78, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 40.7, 'Total Fat': 1.96, 'Carbohydrates': 3.0}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Soy milk, sweetened, plain, refrigerated: {'Protein': 2.78, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 40.7, 'Total Fat': 1.96, 'Carbohydrates': 3.0}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Almond milk, unsweetened, plain, refrigerated: {'Protein': 0.656, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 19.3, 'Total Fat': 1.56, 'Carbohydrates': 0.671}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Almond milk, unsweetened, plain, refrigerated: {'Protein': 0.656, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 19.3, 'Total Fat': 1.56, 'Carbohydrates': 0.671}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Oat milk, unsweetened, plain, refrigerated: {'Protein': 0.797, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 48.3, 'Total Fat': 2.75, 'Carbohydrates': 5.1}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Oat milk, unsweetened, plain, refrigerated: {'Protein': 0.797, 'Fiber': 0.0, 'Saturated Fat': 0, 'Calories': 48.3, 'Total Fat': 2.75, 'Carbohydrates': 5.1}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Carrots, mature, raw: {'Protein': 0.941, 'Fiber': 3.1, 'Saturated Fat': 0, 'Calories': 45.0, 'Total Fat': 0.351, 'Carbohydrates': 10.3}
+2024-09-26 07:15:59,385 - DEBUG - Nutrients extracted for Carrots, mature, raw: {'Protein': 0.941, 'Fiber': 3.1, 'Saturated Fat': 0, 'Calories': 45.0, 'Total Fat': 0.351, 'Carbohydrates': 10.3}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Carrots, baby, raw: {'Protein': 0.805, 'Fiber': 2.69, 'Saturated Fat': 0, 'Calories': 38.3, 'Total Fat': 0.138, 'Carbohydrates': 9.08}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Carrots, baby, raw: {'Protein': 0.805, 'Fiber': 2.69, 'Saturated Fat': 0, 'Calories': 38.3, 'Total Fat': 0.138, 'Carbohydrates': 9.08}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, green, raw: {'Protein': 0.715, 'Fiber': 0.942, 'Saturated Fat': 0, 'Calories': 19.7, 'Total Fat': 0.106, 'Carbohydrates': 4.78}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, green, raw: {'Protein': 0.715, 'Fiber': 0.942, 'Saturated Fat': 0, 'Calories': 19.7, 'Total Fat': 0.106, 'Carbohydrates': 4.78}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, yellow, raw: {'Protein': 0.819, 'Fiber': 1.07, 'Saturated Fat': 0, 'Calories': 26.6, 'Total Fat': 0.121, 'Carbohydrates': 6.6}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, yellow, raw: {'Protein': 0.819, 'Fiber': 1.07, 'Saturated Fat': 0, 'Calories': 26.6, 'Total Fat': 0.121, 'Carbohydrates': 6.6}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, red, raw: {'Protein': 0.896, 'Fiber': 1.16, 'Saturated Fat': 0, 'Calories': 27.0, 'Total Fat': 0.126, 'Carbohydrates': 6.65}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, red, raw: {'Protein': 0.896, 'Fiber': 1.16, 'Saturated Fat': 0, 'Calories': 27.0, 'Total Fat': 0.126, 'Carbohydrates': 6.65}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, orange, raw: {'Protein': 0.882, 'Fiber': 0.967, 'Saturated Fat': 0, 'Calories': 27.4, 'Total Fat': 0.156, 'Carbohydrates': 6.7}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Peppers, bell, orange, raw: {'Protein': 0.882, 'Fiber': 0.967, 'Saturated Fat': 0, 'Calories': 27.4, 'Total Fat': 0.156, 'Carbohydrates': 6.7}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Buttermilk, low fat: {'Protein': 3.46, 'Fiber': 0, 'Saturated Fat': 0.552, 'Calories': 42.9, 'Total Fat': 1.08, 'Carbohydrates': 4.81}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Buttermilk, low fat: {'Protein': 3.46, 'Fiber': 0, 'Saturated Fat': 0.552, 'Calories': 42.9, 'Total Fat': 1.08, 'Carbohydrates': 4.81}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Yogurt, plain, whole milk: {'Protein': 3.82, 'Fiber': 0, 'Saturated Fat': 2.32, 'Calories': 77.3, 'Total Fat': 4.48, 'Carbohydrates': 5.57}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Yogurt, plain, whole milk: {'Protein': 3.82, 'Fiber': 0, 'Saturated Fat': 2.32, 'Calories': 77.3, 'Total Fat': 4.48, 'Carbohydrates': 5.57}
+2024-09-26 07:15:59,386 - DEBUG - Nutrients extracted for Yogurt, Greek, plain, whole milk: {'Protein': 8.78, 'Fiber': 0, 'Saturated Fat': 2.39, 'Calories': 94.5, 'Total Fat': 4.39, 'Carbohydrates': 4.75}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Yogurt, Greek, plain, whole milk: {'Protein': 8.78, 'Fiber': 0, 'Saturated Fat': 2.39, 'Calories': 94.5, 'Total Fat': 4.39, 'Carbohydrates': 4.75}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Cheese, parmesan, grated, refrigerated: {'Protein': 30.1, 'Fiber': 0, 'Saturated Fat': 17.2, 'Calories': 405, 'Total Fat': 29.5, 'Carbohydrates': 4.33}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Cheese, parmesan, grated, refrigerated: {'Protein': 30.1, 'Fiber': 0, 'Saturated Fat': 17.2, 'Calories': 405, 'Total Fat': 29.5, 'Carbohydrates': 4.33}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Cheese, feta, whole milk, crumbled: {'Protein': 19.7, 'Fiber': 0, 'Saturated Fat': 11.2, 'Calories': 273, 'Total Fat': 19.1, 'Carbohydrates': 5.58}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Cheese, feta, whole milk, crumbled: {'Protein': 19.7, 'Fiber': 0, 'Saturated Fat': 11.2, 'Calories': 273, 'Total Fat': 19.1, 'Carbohydrates': 5.58}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, almond: {'Protein': 26.2, 'Fiber': 9.27, 'Saturated Fat': 0, 'Calories': 578, 'Total Fat': 50.2, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, almond: {'Protein': 26.2, 'Fiber': 9.27, 'Saturated Fat': 0, 'Calories': 578, 'Total Fat': 50.2, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, oat, whole grain: {'Protein': 13.2, 'Fiber': 10.5, 'Saturated Fat': 0, 'Calories': 386, 'Total Fat': 6.31, 'Carbohydrates': 69.9}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, oat, whole grain: {'Protein': 13.2, 'Fiber': 10.5, 'Saturated Fat': 0, 'Calories': 386, 'Total Fat': 6.31, 'Carbohydrates': 69.9}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, potato: {'Protein': 8.11, 'Fiber': 5.4, 'Saturated Fat': 0, 'Calories': 353, 'Total Fat': 0.951, 'Carbohydrates': 79.9}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Flour, potato: {'Protein': 8.11, 'Fiber': 5.4, 'Saturated Fat': 0, 'Calories': 353, 'Total Fat': 0.951, 'Carbohydrates': 79.9}
+2024-09-26 07:15:59,387 - DEBUG - Nutrients extracted for Peanut butter, creamy: {'Protein': 24.0, 'Fiber': 6.32, 'Saturated Fat': 8.42, 'Calories': 589, 'Total Fat': 49.4, 'Carbohydrates': 22.7}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Peanut butter, creamy: {'Protein': 24.0, 'Fiber': 6.32, 'Saturated Fat': 8.42, 'Calories': 589, 'Total Fat': 49.4, 'Carbohydrates': 22.7}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Sesame butter, creamy: {'Protein': 19.7, 'Fiber': 8.37, 'Saturated Fat': 8.97, 'Calories': 648, 'Total Fat': 62.4, 'Carbohydrates': 14.2}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Sesame butter, creamy: {'Protein': 19.7, 'Fiber': 8.37, 'Saturated Fat': 8.97, 'Calories': 648, 'Total Fat': 62.4, 'Carbohydrates': 14.2}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Almond butter, creamy: {'Protein': 20.8, 'Fiber': 9.72, 'Saturated Fat': 4.25, 'Calories': 603, 'Total Fat': 53.0, 'Carbohydrates': 21.2}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Almond butter, creamy: {'Protein': 20.8, 'Fiber': 9.72, 'Saturated Fat': 4.25, 'Calories': 603, 'Total Fat': 53.0, 'Carbohydrates': 21.2}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Flaxseed, ground: {'Protein': 18.0, 'Fiber': 23.1, 'Saturated Fat': 3.28, 'Calories': 514, 'Total Fat': 37.3, 'Carbohydrates': 34.4}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Flaxseed, ground: {'Protein': 18.0, 'Fiber': 23.1, 'Saturated Fat': 3.28, 'Calories': 514, 'Total Fat': 37.3, 'Carbohydrates': 34.4}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Cottage cheese, full fat, large or small curd: {'Protein': 11.6, 'Fiber': 0, 'Saturated Fat': 2.6, 'Calories': 105, 'Total Fat': 4.22, 'Carbohydrates': 4.6}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Cottage cheese, full fat, large or small curd: {'Protein': 11.6, 'Fiber': 0, 'Saturated Fat': 2.6, 'Calories': 105, 'Total Fat': 4.22, 'Carbohydrates': 4.6}
+2024-09-26 07:15:59,388 - DEBUG - Nutrients extracted for Cream cheese, full fat, block: {'Protein': 5.79, 'Fiber': 0, 'Saturated Fat': 19.7, 'Calories': 337, 'Total Fat': 33.5, 'Carbohydrates': 4.56}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Cream cheese, full fat, block: {'Protein': 5.79, 'Fiber': 0, 'Saturated Fat': 19.7, 'Calories': 337, 'Total Fat': 33.5, 'Carbohydrates': 4.56}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Cream, heavy: {'Protein': 2.02, 'Fiber': 0, 'Saturated Fat': 20.4, 'Calories': 336, 'Total Fat': 35.6, 'Carbohydrates': 3.8}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Cream, heavy: {'Protein': 2.02, 'Fiber': 0, 'Saturated Fat': 20.4, 'Calories': 336, 'Total Fat': 35.6, 'Carbohydrates': 3.8}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Cream, sour, full fat: {'Protein': 3.07, 'Fiber': 0, 'Saturated Fat': 10.7, 'Calories': 193, 'Total Fat': 18.0, 'Carbohydrates': 5.56}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Cream, sour, full fat: {'Protein': 3.07, 'Fiber': 0, 'Saturated Fat': 10.7, 'Calories': 193, 'Total Fat': 18.0, 'Carbohydrates': 5.56}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, iceberg, raw: {'Protein': 0.742, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.5, 'Total Fat': 0.074, 'Carbohydrates': 3.37}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, iceberg, raw: {'Protein': 0.742, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.5, 'Total Fat': 0.074, 'Carbohydrates': 3.37}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, romaine, green, raw: {'Protein': 0.977, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 17.5, 'Total Fat': 0.071, 'Carbohydrates': 4.06}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, romaine, green, raw: {'Protein': 0.977, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 17.5, 'Total Fat': 0.071, 'Carbohydrates': 4.06}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, leaf, red, raw: {'Protein': 0.883, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.7, 'Total Fat': 0.106, 'Carbohydrates': 3.26}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, leaf, red, raw: {'Protein': 0.883, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.7, 'Total Fat': 0.106, 'Carbohydrates': 3.26}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, leaf, green, raw: {'Protein': 1.09, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 18.5, 'Total Fat': 0.156, 'Carbohydrates': 4.07}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Lettuce, leaf, green, raw: {'Protein': 1.09, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 18.5, 'Total Fat': 0.156, 'Carbohydrates': 4.07}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Nuts, pine nuts, raw: {'Protein': 15.7, 'Fiber': 3.94, 'Saturated Fat': 0, 'Calories': 643, 'Total Fat': 61.3, 'Carbohydrates': 18.6}
+2024-09-26 07:15:59,389 - DEBUG - Nutrients extracted for Nuts, pine nuts, raw: {'Protein': 15.7, 'Fiber': 3.94, 'Saturated Fat': 0, 'Calories': 643, 'Total Fat': 61.3, 'Carbohydrates': 18.6}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, almonds, whole, raw: {'Protein': 21.5, 'Fiber': 10.8, 'Saturated Fat': 3.78, 'Calories': 584, 'Total Fat': 51.1, 'Carbohydrates': 20.0}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, almonds, whole, raw: {'Protein': 21.5, 'Fiber': 10.8, 'Saturated Fat': 3.78, 'Calories': 584, 'Total Fat': 51.1, 'Carbohydrates': 20.0}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, walnuts, English, halves, raw: {'Protein': 14.6, 'Fiber': 5.21, 'Saturated Fat': 6.05, 'Calories': 679, 'Total Fat': 69.7, 'Carbohydrates': 10.9}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, walnuts, English, halves, raw: {'Protein': 14.6, 'Fiber': 5.21, 'Saturated Fat': 6.05, 'Calories': 679, 'Total Fat': 69.7, 'Carbohydrates': 10.9}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, pecans, halves, raw: {'Protein': 9.96, 'Fiber': 5.79, 'Saturated Fat': 6.46, 'Calories': 700, 'Total Fat': 73.3, 'Carbohydrates': 12.7}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Nuts, pecans, halves, raw: {'Protein': 9.96, 'Fiber': 5.79, 'Saturated Fat': 6.46, 'Calories': 700, 'Total Fat': 73.3, 'Carbohydrates': 12.7}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Oats, whole grain, rolled, old fashioned: {'Protein': 13.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 379, 'Total Fat': 5.89, 'Carbohydrates': 68.7}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Oats, whole grain, rolled, old fashioned: {'Protein': 13.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 379, 'Total Fat': 5.89, 'Carbohydrates': 68.7}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Oats, whole grain, steel cut: {'Protein': 12.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 379, 'Total Fat': 5.8, 'Carbohydrates': 69.8}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Oats, whole grain, steel cut: {'Protein': 12.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 379, 'Total Fat': 5.8, 'Carbohydrates': 69.8}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Pineapple, raw: {'Protein': 0.461, 'Fiber': 0.935, 'Saturated Fat': 0, 'Calories': 54.0, 'Total Fat': 0.211, 'Carbohydrates': 14.1}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Pineapple, raw: {'Protein': 0.461, 'Fiber': 0.935, 'Saturated Fat': 0, 'Calories': 54.0, 'Total Fat': 0.211, 'Carbohydrates': 14.1}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Cherries, sweet, dark red, raw: {'Protein': 1.04, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 63.3, 'Total Fat': 0.192, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,390 - DEBUG - Nutrients extracted for Cherries, sweet, dark red, raw: {'Protein': 1.04, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 63.3, 'Total Fat': 0.192, 'Carbohydrates': 16.2}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Beans, snap, green, raw: {'Protein': 1.97, 'Fiber': 3.01, 'Saturated Fat': 0, 'Calories': 33.6, 'Total Fat': 0.275, 'Carbohydrates': 7.41}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Beans, snap, green, raw: {'Protein': 1.97, 'Fiber': 3.01, 'Saturated Fat': 0, 'Calories': 33.6, 'Total Fat': 0.275, 'Carbohydrates': 7.41}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, russet, without skin, raw: {'Protein': 2.27, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 81.0, 'Total Fat': 0.36, 'Carbohydrates': 17.8}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, russet, without skin, raw: {'Protein': 2.27, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 81.0, 'Total Fat': 0.36, 'Carbohydrates': 17.8}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, red, without skin, raw: {'Protein': 2.06, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 73.4, 'Total Fat': 0.248, 'Carbohydrates': 16.3}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, red, without skin, raw: {'Protein': 2.06, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 73.4, 'Total Fat': 0.248, 'Carbohydrates': 16.3}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, gold, without skin, raw: {'Protein': 1.81, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 71.6, 'Total Fat': 0.264, 'Carbohydrates': 16.0}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Potatoes, gold, without skin, raw: {'Protein': 1.81, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 71.6, 'Total Fat': 0.264, 'Carbohydrates': 16.0}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Sweet potatoes, orange flesh, without skin, raw: {'Protein': 1.58, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.4, 'Total Fat': 0.375, 'Carbohydrates': 17.3}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Sweet potatoes, orange flesh, without skin, raw: {'Protein': 1.58, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.4, 'Total Fat': 0.375, 'Carbohydrates': 17.3}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Celery, raw: {'Protein': 0.492, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.8, 'Total Fat': 0.162, 'Carbohydrates': 3.32}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Celery, raw: {'Protein': 0.492, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 14.8, 'Total Fat': 0.162, 'Carbohydrates': 3.32}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Cucumber, with peel, raw: {'Protein': 0.625, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 13.9, 'Total Fat': 0.178, 'Carbohydrates': 2.95}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Cucumber, with peel, raw: {'Protein': 0.625, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 13.9, 'Total Fat': 0.178, 'Carbohydrates': 2.95}
+2024-09-26 07:15:59,391 - DEBUG - Nutrients extracted for Cabbage, green, raw: {'Protein': 0.961, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 27.9, 'Total Fat': 0.228, 'Carbohydrates': 6.38}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Cabbage, green, raw: {'Protein': 0.961, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 27.9, 'Total Fat': 0.228, 'Carbohydrates': 6.38}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Cabbage, red, raw: {'Protein': 1.24, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 29.9, 'Total Fat': 0.214, 'Carbohydrates': 6.79}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Cabbage, red, raw: {'Protein': 1.24, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 29.9, 'Total Fat': 0.214, 'Carbohydrates': 6.79}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Strawberries, raw: {'Protein': 0.641, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 32.7, 'Total Fat': 0.22, 'Carbohydrates': 7.96}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Strawberries, raw: {'Protein': 0.641, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 32.7, 'Total Fat': 0.22, 'Carbohydrates': 7.96}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Raspberries, raw: {'Protein': 1.01, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 51.4, 'Total Fat': 0.188, 'Carbohydrates': 12.9}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Raspberries, raw: {'Protein': 1.01, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 51.4, 'Total Fat': 0.188, 'Carbohydrates': 12.9}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Blueberries, raw: {'Protein': 0.703, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 57.4, 'Total Fat': 0.306, 'Carbohydrates': 14.6}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Blueberries, raw: {'Protein': 0.703, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 57.4, 'Total Fat': 0.306, 'Carbohydrates': 14.6}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Grapes, red, seedless, raw: {'Protein': 0.914, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.2, 'Total Fat': 0.164, 'Carbohydrates': 20.2}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Grapes, red, seedless, raw: {'Protein': 0.914, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.2, 'Total Fat': 0.164, 'Carbohydrates': 20.2}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Grapes, green, seedless, raw: {'Protein': 0.899, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 71.9, 'Total Fat': 0.232, 'Carbohydrates': 18.6}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Grapes, green, seedless, raw: {'Protein': 0.899, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 71.9, 'Total Fat': 0.232, 'Carbohydrates': 18.6}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Applesauce, unsweetened, with added vitamin C: {'Protein': 0.273, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 46.4, 'Total Fat': 0.162, 'Carbohydrates': 12.3}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Applesauce, unsweetened, with added vitamin C: {'Protein': 0.273, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 46.4, 'Total Fat': 0.162, 'Carbohydrates': 12.3}
+2024-09-26 07:15:59,392 - DEBUG - Nutrients extracted for Flour, amaranth: {'Protein': 13.2, 'Fiber': 7.21, 'Saturated Fat': 0, 'Calories': 378, 'Total Fat': 6.24, 'Carbohydrates': 68.8}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, amaranth: {'Protein': 13.2, 'Fiber': 7.21, 'Saturated Fat': 0, 'Calories': 378, 'Total Fat': 6.24, 'Carbohydrates': 68.8}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, quinoa: {'Protein': 11.9, 'Fiber': 6.3, 'Saturated Fat': 0, 'Calories': 378, 'Total Fat': 6.6, 'Carbohydrates': 69.5}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, quinoa: {'Protein': 11.9, 'Fiber': 6.3, 'Saturated Fat': 0, 'Calories': 378, 'Total Fat': 6.6, 'Carbohydrates': 69.5}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, sorghum: {'Protein': 8.27, 'Fiber': 6.02, 'Saturated Fat': 0, 'Calories': 364, 'Total Fat': 3.59, 'Carbohydrates': 77.4}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, sorghum: {'Protein': 8.27, 'Fiber': 6.02, 'Saturated Fat': 0, 'Calories': 364, 'Total Fat': 3.59, 'Carbohydrates': 77.4}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, buckwheat: {'Protein': 8.88, 'Fiber': 10.4, 'Saturated Fat': 0, 'Calories': 334, 'Total Fat': 2.48, 'Carbohydrates': 75.0}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, buckwheat: {'Protein': 8.88, 'Fiber': 10.4, 'Saturated Fat': 0, 'Calories': 334, 'Total Fat': 2.48, 'Carbohydrates': 75.0}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, rye: {'Protein': 8.4, 'Fiber': 13.7, 'Saturated Fat': 0, 'Calories': 351, 'Total Fat': 1.91, 'Carbohydrates': 77.2}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, rye: {'Protein': 8.4, 'Fiber': 13.7, 'Saturated Fat': 0, 'Calories': 351, 'Total Fat': 1.91, 'Carbohydrates': 77.2}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, barley: {'Protein': 8.72, 'Fiber': 12.8, 'Saturated Fat': 0, 'Calories': 357, 'Total Fat': 2.45, 'Carbohydrates': 77.4}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, barley: {'Protein': 8.72, 'Fiber': 12.8, 'Saturated Fat': 0, 'Calories': 357, 'Total Fat': 2.45, 'Carbohydrates': 77.4}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, cassava: {'Protein': 0.918, 'Fiber': 4.83, 'Saturated Fat': 0, 'Calories': 359, 'Total Fat': 0.494, 'Carbohydrates': 87.3}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Flour, cassava: {'Protein': 0.918, 'Fiber': 4.83, 'Saturated Fat': 0, 'Calories': 359, 'Total Fat': 0.494, 'Carbohydrates': 87.3}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Buckwheat, whole grain: {'Protein': 11.1, 'Fiber': 4.05, 'Saturated Fat': 0, 'Calories': 332, 'Total Fat': 3.04, 'Carbohydrates': 71.1}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Buckwheat, whole grain: {'Protein': 11.1, 'Fiber': 4.05, 'Saturated Fat': 0, 'Calories': 332, 'Total Fat': 3.04, 'Carbohydrates': 71.1}
+2024-09-26 07:15:59,393 - DEBUG - Nutrients extracted for Millet, whole grain: {'Protein': 10.0, 'Fiber': 2.62, 'Saturated Fat': 0, 'Calories': 381, 'Total Fat': 4.19, 'Carbohydrates': 74.4}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Millet, whole grain: {'Protein': 10.0, 'Fiber': 2.62, 'Saturated Fat': 0, 'Calories': 381, 'Total Fat': 4.19, 'Carbohydrates': 74.4}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Rice, brown, long grain, unenriched, raw: {'Protein': 7.25, 'Fiber': 3.02, 'Saturated Fat': 0, 'Calories': 368, 'Total Fat': 3.31, 'Carbohydrates': 76.7}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Rice, brown, long grain, unenriched, raw: {'Protein': 7.25, 'Fiber': 3.02, 'Saturated Fat': 0, 'Calories': 368, 'Total Fat': 3.31, 'Carbohydrates': 76.7}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Rice, white, long grain, unenriched, raw: {'Protein': 7.04, 'Fiber': 0.149, 'Saturated Fat': 0, 'Calories': 370, 'Total Fat': 1.03, 'Carbohydrates': 80.3}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Rice, white, long grain, unenriched, raw: {'Protein': 7.04, 'Fiber': 0.149, 'Saturated Fat': 0, 'Calories': 370, 'Total Fat': 1.03, 'Carbohydrates': 80.3}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Beef, ground, 90% lean meat / 10% fat, raw: {'Protein': 18.2, 'Fiber': 0, 'Saturated Fat': 5.05, 'Calories': 190, 'Total Fat': 12.8, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Beef, ground, 90% lean meat / 10% fat, raw: {'Protein': 18.2, 'Fiber': 0, 'Saturated Fat': 5.05, 'Calories': 190, 'Total Fat': 12.8, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Beef, ground, 80% lean meat / 20% fat, raw: {'Protein': 17.5, 'Fiber': 0, 'Saturated Fat': 6.84, 'Calories': 248, 'Total Fat': 19.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Beef, ground, 80% lean meat / 20% fat, raw: {'Protein': 17.5, 'Fiber': 0, 'Saturated Fat': 6.84, 'Calories': 248, 'Total Fat': 19.4, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Pork, ground, raw: {'Protein': 17.8, 'Fiber': 0, 'Saturated Fat': 6.28, 'Calories': 233, 'Total Fat': 17.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Pork, ground, raw: {'Protein': 17.8, 'Fiber': 0, 'Saturated Fat': 6.28, 'Calories': 233, 'Total Fat': 17.5, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Chicken, ground, with additives, raw: {'Protein': 17.9, 'Fiber': 0, 'Saturated Fat': 1.56, 'Calories': 138, 'Total Fat': 7.16, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Chicken, ground, with additives, raw: {'Protein': 17.9, 'Fiber': 0, 'Saturated Fat': 1.56, 'Calories': 138, 'Total Fat': 7.16, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Turkey, ground, 93% lean/ 7% fat, raw: {'Protein': 17.3, 'Fiber': 0, 'Saturated Fat': 2.26, 'Calories': 158, 'Total Fat': 9.59, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Turkey, ground, 93% lean/ 7% fat, raw: {'Protein': 17.3, 'Fiber': 0, 'Saturated Fat': 2.26, 'Calories': 158, 'Total Fat': 9.59, 'Carbohydrates': 0.0}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Nuts, brazilnuts, raw: {'Protein': 15.0, 'Fiber': 5.98, 'Saturated Fat': 0, 'Calories': 621, 'Total Fat': 57.4, 'Carbohydrates': 21.6}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Nuts, brazilnuts, raw: {'Protein': 15.0, 'Fiber': 5.98, 'Saturated Fat': 0, 'Calories': 621, 'Total Fat': 57.4, 'Carbohydrates': 21.6}
+2024-09-26 07:15:59,394 - DEBUG - Nutrients extracted for Nuts, cashew nuts, raw: {'Protein': 17.4, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 533, 'Total Fat': 38.9, 'Carbohydrates': 36.3}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, cashew nuts, raw: {'Protein': 17.4, 'Fiber': 4.1, 'Saturated Fat': 0, 'Calories': 533, 'Total Fat': 38.9, 'Carbohydrates': 36.3}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, hazelnuts or filberts, raw: {'Protein': 13.5, 'Fiber': 8.41, 'Saturated Fat': 0, 'Calories': 602, 'Total Fat': 53.5, 'Carbohydrates': 26.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, hazelnuts or filberts, raw: {'Protein': 13.5, 'Fiber': 8.41, 'Saturated Fat': 0, 'Calories': 602, 'Total Fat': 53.5, 'Carbohydrates': 26.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Peanuts, raw: {'Protein': 23.2, 'Fiber': 8.01, 'Saturated Fat': 0, 'Calories': 551, 'Total Fat': 43.3, 'Carbohydrates': 26.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Peanuts, raw: {'Protein': 23.2, 'Fiber': 8.01, 'Saturated Fat': 0, 'Calories': 551, 'Total Fat': 43.3, 'Carbohydrates': 26.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Flour, chestnut: {'Protein': 5.29, 'Fiber': 8.71, 'Saturated Fat': 0.689, 'Calories': 385, 'Total Fat': 4.64, 'Carbohydrates': 80.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Flour, chestnut: {'Protein': 5.29, 'Fiber': 8.71, 'Saturated Fat': 0.689, 'Calories': 385, 'Total Fat': 4.64, 'Carbohydrates': 80.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, macadamia nuts, raw: {'Protein': 7.79, 'Fiber': 7.56, 'Saturated Fat': 0, 'Calories': 669, 'Total Fat': 64.9, 'Carbohydrates': 24.1}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, macadamia nuts, raw: {'Protein': 7.79, 'Fiber': 7.56, 'Saturated Fat': 0, 'Calories': 669, 'Total Fat': 64.9, 'Carbohydrates': 24.1}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, pistachio nuts, raw: {'Protein': 20.5, 'Fiber': 6.97, 'Saturated Fat': 0, 'Calories': 561, 'Total Fat': 45.0, 'Carbohydrates': 27.7}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Nuts, pistachio nuts, raw: {'Protein': 20.5, 'Fiber': 6.97, 'Saturated Fat': 0, 'Calories': 561, 'Total Fat': 45.0, 'Carbohydrates': 27.7}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Seeds, pumpkin seeds (pepitas), raw: {'Protein': 29.9, 'Fiber': 5.08, 'Saturated Fat': 0, 'Calories': 515, 'Total Fat': 40.0, 'Carbohydrates': 18.7}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Seeds, pumpkin seeds (pepitas), raw: {'Protein': 29.9, 'Fiber': 5.08, 'Saturated Fat': 0, 'Calories': 515, 'Total Fat': 40.0, 'Carbohydrates': 18.7}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Seeds, sunflower seed, kernel, raw: {'Protein': 18.9, 'Fiber': 7.22, 'Saturated Fat': 0, 'Calories': 571, 'Total Fat': 48.4, 'Carbohydrates': 24.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Seeds, sunflower seed, kernel, raw: {'Protein': 18.9, 'Fiber': 7.22, 'Saturated Fat': 0, 'Calories': 571, 'Total Fat': 48.4, 'Carbohydrates': 24.5}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Flour, coconut: {'Protein': 16.1, 'Fiber': 34.2, 'Saturated Fat': 14.0, 'Calories': 424, 'Total Fat': 15.3, 'Carbohydrates': 58.9}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Flour, coconut: {'Protein': 16.1, 'Fiber': 34.2, 'Saturated Fat': 14.0, 'Calories': 424, 'Total Fat': 15.3, 'Carbohydrates': 58.9}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Beans, cannellini, dry: {'Protein': 21.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 337, 'Total Fat': 2.2, 'Carbohydrates': 59.8}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Beans, cannellini, dry: {'Protein': 21.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 337, 'Total Fat': 2.2, 'Carbohydrates': 59.8}
+2024-09-26 07:15:59,395 - DEBUG - Nutrients extracted for Chickpeas, (garbanzo beans, bengal gram), dry: {'Protein': 21.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 372, 'Total Fat': 6.27, 'Carbohydrates': 60.4}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Chickpeas, (garbanzo beans, bengal gram), dry: {'Protein': 21.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 372, 'Total Fat': 6.27, 'Carbohydrates': 60.4}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Lentils, dry: {'Protein': 23.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 351, 'Total Fat': 1.92, 'Carbohydrates': 62.2}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Lentils, dry: {'Protein': 23.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 351, 'Total Fat': 1.92, 'Carbohydrates': 62.2}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Blackeye pea, dry: {'Protein': 21.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 346, 'Total Fat': 2.42, 'Carbohydrates': 61.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Blackeye pea, dry: {'Protein': 21.2, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 346, 'Total Fat': 2.42, 'Carbohydrates': 61.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, black, canned, sodium added, drained and rinsed: {'Protein': 6.91, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 118, 'Total Fat': 1.27, 'Carbohydrates': 19.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, black, canned, sodium added, drained and rinsed: {'Protein': 6.91, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 118, 'Total Fat': 1.27, 'Carbohydrates': 19.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, navy, canned, sodium added, drained and rinsed: {'Protein': 6.57, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 116, 'Total Fat': 1.4, 'Carbohydrates': 20.0}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, navy, canned, sodium added, drained and rinsed: {'Protein': 6.57, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 116, 'Total Fat': 1.4, 'Carbohydrates': 20.0}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, cannellini, canned, sodium added, drained and rinsed: {'Protein': 7.41, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 112, 'Total Fat': 1.17, 'Carbohydrates': 18.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, cannellini, canned, sodium added, drained and rinsed: {'Protein': 7.41, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 112, 'Total Fat': 1.17, 'Carbohydrates': 18.8}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed: {'Protein': 7.02, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 133, 'Total Fat': 3.1, 'Carbohydrates': 20.3}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed: {'Protein': 7.02, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 133, 'Total Fat': 3.1, 'Carbohydrates': 20.3}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed: {'Protein': 7.8, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 123, 'Total Fat': 1.26, 'Carbohydrates': 21.0}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed: {'Protein': 7.8, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 123, 'Total Fat': 1.26, 'Carbohydrates': 21.0}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed: {'Protein': 7.31, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 124, 'Total Fat': 1.3, 'Carbohydrates': 21.4}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed: {'Protein': 7.31, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 124, 'Total Fat': 1.3, 'Carbohydrates': 21.4}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed: {'Protein': 4.73, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.8, 'Total Fat': 1.15, 'Carbohydrates': 12.7}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed: {'Protein': 4.73, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 77.8, 'Total Fat': 1.15, 'Carbohydrates': 12.7}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, pinto, canned, sodium added, drained and rinsed: {'Protein': 6.69, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 114, 'Total Fat': 1.27, 'Carbohydrates': 19.6}
+2024-09-26 07:15:59,396 - DEBUG - Nutrients extracted for Beans, pinto, canned, sodium added, drained and rinsed: {'Protein': 6.69, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 114, 'Total Fat': 1.27, 'Carbohydrates': 19.6}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Blackeye pea, canned, sodium added, drained and rinsed: {'Protein': 6.92, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 113, 'Total Fat': 1.3, 'Carbohydrates': 19.2}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Blackeye pea, canned, sodium added, drained and rinsed: {'Protein': 6.92, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 113, 'Total Fat': 1.3, 'Carbohydrates': 19.2}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beans, great northern, canned, sodium added, drained and rinsed: {'Protein': 7.03, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 114, 'Total Fat': 1.27, 'Carbohydrates': 19.3}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beans, great northern, canned, sodium added, drained and rinsed: {'Protein': 7.03, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 114, 'Total Fat': 1.27, 'Carbohydrates': 19.3}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Pork, loin, boneless, raw: {'Protein': 21.1, 'Fiber': 0, 'Saturated Fat': 3.28, 'Calories': 174, 'Total Fat': 9.47, 'Carbohydrates': -0.482}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Pork, loin, boneless, raw: {'Protein': 21.1, 'Fiber': 0, 'Saturated Fat': 3.28, 'Calories': 174, 'Total Fat': 9.47, 'Carbohydrates': -0.482}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Pork, loin, tenderloin, boneless, raw: {'Protein': 21.6, 'Fiber': 0, 'Saturated Fat': 0.866, 'Calories': 125, 'Total Fat': 3.9, 'Carbohydrates': -0.594}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Pork, loin, tenderloin, boneless, raw: {'Protein': 21.6, 'Fiber': 0, 'Saturated Fat': 0.866, 'Calories': 125, 'Total Fat': 3.9, 'Carbohydrates': -0.594}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Chicken, breast, boneless, skinless, raw: {'Protein': 22.5, 'Fiber': 0, 'Saturated Fat': 0.349, 'Calories': 112, 'Total Fat': 1.93, 'Carbohydrates': -0.368}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Chicken, breast, boneless, skinless, raw: {'Protein': 22.5, 'Fiber': 0, 'Saturated Fat': 0.349, 'Calories': 112, 'Total Fat': 1.93, 'Carbohydrates': -0.368}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Chicken, thigh, boneless, skinless, raw: {'Protein': 18.6, 'Fiber': 0, 'Saturated Fat': 1.66, 'Calories': 149, 'Total Fat': 7.92, 'Carbohydrates': -0.406}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Chicken, thigh, boneless, skinless, raw: {'Protein': 18.6, 'Fiber': 0, 'Saturated Fat': 1.66, 'Calories': 149, 'Total Fat': 7.92, 'Carbohydrates': -0.406}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, ribeye, steak, boneless, choice, raw: {'Protein': 18.7, 'Fiber': 0, 'Saturated Fat': 7.97, 'Calories': 260, 'Total Fat': 20.0, 'Carbohydrates': -0.306}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, ribeye, steak, boneless, choice, raw: {'Protein': 18.7, 'Fiber': 0, 'Saturated Fat': 7.97, 'Calories': 260, 'Total Fat': 20.0, 'Carbohydrates': -0.306}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, round, top round, boneless, choice, raw: {'Protein': 21.5, 'Fiber': 0, 'Saturated Fat': 1.7, 'Calories': 146, 'Total Fat': 5.7, 'Carbohydrates': 0.852}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, round, top round, boneless, choice, raw: {'Protein': 21.5, 'Fiber': 0, 'Saturated Fat': 1.7, 'Calories': 146, 'Total Fat': 5.7, 'Carbohydrates': 0.852}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, chuck, roast, boneless, choice, raw: {'Protein': 18.4, 'Fiber': 0, 'Saturated Fat': 6.34, 'Calories': 237, 'Total Fat': 17.8, 'Carbohydrates': -0.524}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, chuck, roast, boneless, choice, raw: {'Protein': 18.4, 'Fiber': 0, 'Saturated Fat': 6.34, 'Calories': 237, 'Total Fat': 17.8, 'Carbohydrates': -0.524}
+2024-09-26 07:15:59,397 - DEBUG - Nutrients extracted for Beef, flank, steak, boneless, choice, raw: {'Protein': 20.1, 'Fiber': 0, 'Saturated Fat': 3.55, 'Calories': 170, 'Total Fat': 9.4, 'Carbohydrates': -0.304}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Beef, flank, steak, boneless, choice, raw: {'Protein': 20.1, 'Fiber': 0, 'Saturated Fat': 3.55, 'Calories': 170, 'Total Fat': 9.4, 'Carbohydrates': -0.304}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Yogurt, plain, nonfat: {'Protein': 4.23, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 50.1, 'Total Fat': 0.087, 'Carbohydrates': 8.08}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Yogurt, plain, nonfat: {'Protein': 4.23, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 50.1, 'Total Fat': 0.087, 'Carbohydrates': 8.08}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, monterey jack, solid: {'Protein': 22.6, 'Fiber': 0, 'Saturated Fat': 19.2, 'Calories': 391, 'Total Fat': 32.6, 'Carbohydrates': 1.9}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, monterey jack, solid: {'Protein': 22.6, 'Fiber': 0, 'Saturated Fat': 19.2, 'Calories': 391, 'Total Fat': 32.6, 'Carbohydrates': 1.9}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, pasteurized process cheese food or product, American, singles: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 13.7, 'Calories': 308, 'Total Fat': 23.9, 'Carbohydrates': 8.19}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, pasteurized process cheese food or product, American, singles: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 13.7, 'Calories': 308, 'Total Fat': 23.9, 'Carbohydrates': 8.19}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, provolone, sliced: {'Protein': 23.5, 'Fiber': 0, 'Saturated Fat': 16.2, 'Calories': 357, 'Total Fat': 28.1, 'Carbohydrates': 2.45}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, provolone, sliced: {'Protein': 23.5, 'Fiber': 0, 'Saturated Fat': 16.2, 'Calories': 357, 'Total Fat': 28.1, 'Carbohydrates': 2.45}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, oaxaca, solid: {'Protein': 22.1, 'Fiber': 0, 'Saturated Fat': 12.7, 'Calories': 298, 'Total Fat': 22.1, 'Carbohydrates': 2.4}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, oaxaca, solid: {'Protein': 22.1, 'Fiber': 0, 'Saturated Fat': 12.7, 'Calories': 298, 'Total Fat': 22.1, 'Carbohydrates': 2.4}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, queso fresco, solid: {'Protein': 18.9, 'Fiber': 0, 'Saturated Fat': 14.0, 'Calories': 297, 'Total Fat': 23.4, 'Carbohydrates': 2.96}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, queso fresco, solid: {'Protein': 18.9, 'Fiber': 0, 'Saturated Fat': 14.0, 'Calories': 297, 'Total Fat': 23.4, 'Carbohydrates': 2.96}
+2024-09-26 07:15:59,398 - DEBUG - Nutrients extracted for Cheese, cotija, solid: {'Protein': 23.8, 'Fiber': 0, 'Saturated Fat': 15.9, 'Calories': 352, 'Total Fat': 27.2, 'Carbohydrates': 2.72}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Cheese, cotija, solid: {'Protein': 23.8, 'Fiber': 0, 'Saturated Fat': 15.9, 'Calories': 352, 'Total Fat': 27.2, 'Carbohydrates': 2.72}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, salmon, sockeye, wild caught, raw: {'Protein': 22.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 136, 'Total Fat': 4.94, 'Carbohydrates': -0.91}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, salmon, sockeye, wild caught, raw: {'Protein': 22.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 136, 'Total Fat': 4.94, 'Carbohydrates': -0.91}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, salmon, Atlantic, farm raised, raw: {'Protein': 20.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 203, 'Total Fat': 13.1, 'Carbohydrates': -0.493}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, salmon, Atlantic, farm raised, raw: {'Protein': 20.3, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 203, 'Total Fat': 13.1, 'Carbohydrates': -0.493}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, tilapia, farm raised, raw: {'Protein': 19.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 100, 'Total Fat': 2.48, 'Carbohydrates': -0.913}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, tilapia, farm raised, raw: {'Protein': 19.0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 100, 'Total Fat': 2.48, 'Carbohydrates': -0.913}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Crustaceans, shrimp, farm raised, raw: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 75.7, 'Total Fat': 0.801, 'Carbohydrates': 0.485}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Crustaceans, shrimp, farm raised, raw: {'Protein': 15.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 75.7, 'Total Fat': 0.801, 'Carbohydrates': 0.485}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, cod, Atlantic, wild caught, raw: {'Protein': 16.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 70.5, 'Total Fat': 0.668, 'Carbohydrates': -1.07}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, cod, Atlantic, wild caught, raw: {'Protein': 16.1, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 70.5, 'Total Fat': 0.668, 'Carbohydrates': -1.07}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, catfish, farm raised, raw: {'Protein': 16.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 134, 'Total Fat': 7.31, 'Carbohydrates': -0.634}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Fish, catfish, farm raised, raw: {'Protein': 16.5, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 134, 'Total Fat': 7.31, 'Carbohydrates': -0.634}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated: {'Protein': 18.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 86.0, 'Total Fat': 0.808, 'Carbohydrates': -0.218}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated: {'Protein': 18.6, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 86.0, 'Total Fat': 0.808, 'Carbohydrates': -0.218}
+2024-09-26 07:15:59,399 - DEBUG - Nutrients extracted for Squash, summer, green, zucchini, includes skin, raw: {'Protein': 0.984, 'Fiber': 0.752, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.205, 'Carbohydrates': 0}
+2024-09-26 07:15:59,399 - DEBUG - Estimated calories for Squash, summer, green, zucchini, includes skin, raw from macronutrients: Protein=0.984g, Fat=0.205g, Carbs=0g -> Estimated Calories=5.781
+2024-09-26 07:15:59,399 - DEBUG - Calculations for Squash, summer, green, zucchini, includes skin, raw:
+2024-09-26 07:15:59,399 - DEBUG - Protein: 0.984g, Fiber: 0.752g, Saturated Fat: 0g, Calories: 5.781 kcal
+2024-09-26 07:15:59,399 - DEBUG - Protein Score Calculation: (0.984 / 5.781) * 100 / 125 * 100 = 13.6
+2024-09-26 07:15:59,399 - DEBUG - Fiber Score Calculation: (0.752 / 5.781) * 100 / 25 * 100 = 52.0
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 5.781) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 65.6
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, summer, green, zucchini, includes skin, raw: {'Protein': 0.984, 'Fiber': 0.752, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.205, 'Carbohydrates': 0}
+2024-09-26 07:15:59,400 - DEBUG - Estimated calories for Squash, summer, green, zucchini, includes skin, raw from macronutrients: Protein=0.984g, Fat=0.205g, Carbs=0g -> Estimated Calories=5.781
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, summer, green, zucchini, includes skin, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 0.984g, Fiber: 0.752g, Saturated Fat: 0g, Calories: 5.781 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (0.984 / 5.781) * 100 / 125 * 100 = 13.6
+2024-09-26 07:15:59,400 - DEBUG - Fiber Score Calculation: (0.752 / 5.781) * 100 / 25 * 100 = 52.0
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 5.781) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 65.6
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, summer, yellow, includes skin, raw: {'Protein': 0.891, 'Fiber': 0.956, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.135, 'Carbohydrates': 0}
+2024-09-26 07:15:59,400 - DEBUG - Estimated calories for Squash, summer, yellow, includes skin, raw from macronutrients: Protein=0.891g, Fat=0.135g, Carbs=0g -> Estimated Calories=4.779
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, summer, yellow, includes skin, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 0.891g, Fiber: 0.956g, Saturated Fat: 0g, Calories: 4.779 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (0.891 / 4.779) * 100 / 125 * 100 = 14.9
+2024-09-26 07:15:59,400 - DEBUG - Fiber Score Calculation: (0.956 / 4.779) * 100 / 25 * 100 = 80.0
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 4.779) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 94.9
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, summer, yellow, includes skin, raw: {'Protein': 0.891, 'Fiber': 0.956, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0.135, 'Carbohydrates': 0}
+2024-09-26 07:15:59,400 - DEBUG - Estimated calories for Squash, summer, yellow, includes skin, raw from macronutrients: Protein=0.891g, Fat=0.135g, Carbs=0g -> Estimated Calories=4.779
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, summer, yellow, includes skin, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 0.891g, Fiber: 0.956g, Saturated Fat: 0g, Calories: 4.779 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (0.891 / 4.779) * 100 / 125 * 100 = 14.9
+2024-09-26 07:15:59,400 - DEBUG - Fiber Score Calculation: (0.956 / 4.779) * 100 / 25 * 100 = 80.0
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 4.779) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 94.9
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, winter, butternut, raw: {'Protein': 1.15, 'Fiber': 1.96, 'Saturated Fat': 0, 'Calories': 41.7, 'Total Fat': 0.168, 'Carbohydrates': 10.5}
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, winter, butternut, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 1.15g, Fiber: 1.96g, Saturated Fat: 0g, Calories: 41.7 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (1.15 / 41.7) * 100 / 125 * 100 = 2.2
+2024-09-26 07:15:59,400 - DEBUG - Fiber Score Calculation: (1.96 / 41.7) * 100 / 25 * 100 = 18.8
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 41.7) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 21.0
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, winter, butternut, raw: {'Protein': 1.15, 'Fiber': 1.96, 'Saturated Fat': 0, 'Calories': 41.7, 'Total Fat': 0.168, 'Carbohydrates': 10.5}
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, winter, butternut, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 1.15g, Fiber: 1.96g, Saturated Fat: 0g, Calories: 41.7 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (1.15 / 41.7) * 100 / 125 * 100 = 2.2
+2024-09-26 07:15:59,400 - DEBUG - Fiber Score Calculation: (1.96 / 41.7) * 100 / 25 * 100 = 18.8
+2024-09-26 07:15:59,400 - DEBUG - Saturated Fat Score Calculation: -(0 / 41.7) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,400 - DEBUG - Total Score: 21.0
+2024-09-26 07:15:59,400 - DEBUG - Nutrients extracted for Squash, winter, acorn, raw: {'Protein': 1.25, 'Fiber': 2.64, 'Saturated Fat': 0, 'Calories': 42.0, 'Total Fat': 0.182, 'Carbohydrates': 10.5}
+2024-09-26 07:15:59,400 - DEBUG - Calculations for Squash, winter, acorn, raw:
+2024-09-26 07:15:59,400 - DEBUG - Protein: 1.25g, Fiber: 2.64g, Saturated Fat: 0g, Calories: 42.0 kcal
+2024-09-26 07:15:59,400 - DEBUG - Protein Score Calculation: (1.25 / 42.0) * 100 / 125 * 100 = 2.4
+2024-09-26 07:15:59,401 - DEBUG - Fiber Score Calculation: (2.64 / 42.0) * 100 / 25 * 100 = 25.1
+2024-09-26 07:15:59,401 - DEBUG - Saturated Fat Score Calculation: -(0 / 42.0) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,401 - DEBUG - Total Score: 27.5
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Squash, winter, acorn, raw: {'Protein': 1.25, 'Fiber': 2.64, 'Saturated Fat': 0, 'Calories': 42.0, 'Total Fat': 0.182, 'Carbohydrates': 10.5}
+2024-09-26 07:15:59,401 - DEBUG - Calculations for Squash, winter, acorn, raw:
+2024-09-26 07:15:59,401 - DEBUG - Protein: 1.25g, Fiber: 2.64g, Saturated Fat: 0g, Calories: 42.0 kcal
+2024-09-26 07:15:59,401 - DEBUG - Protein Score Calculation: (1.25 / 42.0) * 100 / 125 * 100 = 2.4
+2024-09-26 07:15:59,401 - DEBUG - Fiber Score Calculation: (2.64 / 42.0) * 100 / 25 * 100 = 25.1
+2024-09-26 07:15:59,401 - DEBUG - Saturated Fat Score Calculation: -(0 / 42.0) * 100 / 15 * 100 = -0.0
+2024-09-26 07:15:59,401 - DEBUG - Total Score: 27.5
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Cabbage, bok choy, raw: {'Protein': 1.02, 'Fiber': 1.26, 'Saturated Fat': 0, 'Calories': 17.0, 'Total Fat': 0.234, 'Carbohydrates': 3.51}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Cabbage, bok choy, raw: {'Protein': 1.02, 'Fiber': 1.26, 'Saturated Fat': 0, 'Calories': 17.0, 'Total Fat': 0.234, 'Carbohydrates': 3.51}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Cauliflower, raw: {'Protein': 1.64, 'Fiber': 1.95, 'Saturated Fat': 0, 'Calories': 22.9, 'Total Fat': 0.238, 'Carbohydrates': 4.72}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Cauliflower, raw: {'Protein': 1.64, 'Fiber': 1.95, 'Saturated Fat': 0, 'Calories': 22.9, 'Total Fat': 0.238, 'Carbohydrates': 4.72}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Collards, raw: {'Protein': 2.97, 'Fiber': 3.82, 'Saturated Fat': 0, 'Calories': 38.8, 'Total Fat': 0.77, 'Carbohydrates': 7.02}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Collards, raw: {'Protein': 2.97, 'Fiber': 3.82, 'Saturated Fat': 0, 'Calories': 38.8, 'Total Fat': 0.77, 'Carbohydrates': 7.02}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Brussels sprouts, raw: {'Protein': 3.98, 'Fiber': 4.78, 'Saturated Fat': 0, 'Calories': 48.8, 'Total Fat': 0.565, 'Carbohydrates': 9.62}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Brussels sprouts, raw: {'Protein': 3.98, 'Fiber': 4.78, 'Saturated Fat': 0, 'Calories': 48.8, 'Total Fat': 0.565, 'Carbohydrates': 9.62}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Beets, raw: {'Protein': 1.69, 'Fiber': 3.12, 'Saturated Fat': 0, 'Calories': 41.0, 'Total Fat': 0.302, 'Carbohydrates': 8.79}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Beets, raw: {'Protein': 1.69, 'Fiber': 3.12, 'Saturated Fat': 0, 'Calories': 41.0, 'Total Fat': 0.302, 'Carbohydrates': 8.79}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Eggplant, raw: {'Protein': 0.852, 'Fiber': 2.45, 'Saturated Fat': 0, 'Calories': 22.4, 'Total Fat': 0.12, 'Carbohydrates': 5.4}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Eggplant, raw: {'Protein': 0.852, 'Fiber': 2.45, 'Saturated Fat': 0, 'Calories': 22.4, 'Total Fat': 0.12, 'Carbohydrates': 5.4}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Tomatoes, whole, canned, solids and liquids, with salt added: {'Protein': 0.868, 'Fiber': 0.872, 'Saturated Fat': 0, 'Calories': 19.1, 'Total Fat': 0.206, 'Carbohydrates': 4.29}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Tomatoes, whole, canned, solids and liquids, with salt added: {'Protein': 0.868, 'Fiber': 0.872, 'Saturated Fat': 0, 'Calories': 19.1, 'Total Fat': 0.206, 'Carbohydrates': 4.29}
+2024-09-26 07:15:59,401 - DEBUG - Nutrients extracted for Tomato, sauce, canned, with salt added: {'Protein': 1.35, 'Fiber': 1.64, 'Saturated Fat': 0, 'Calories': 34.2, 'Total Fat': 0.382, 'Carbohydrates': 6.33}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomato, sauce, canned, with salt added: {'Protein': 1.35, 'Fiber': 1.64, 'Saturated Fat': 0, 'Calories': 34.2, 'Total Fat': 0.382, 'Carbohydrates': 6.33}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomato, paste, canned, without salt added: {'Protein': 4.23, 'Fiber': 4.7, 'Saturated Fat': 0, 'Calories': 88.5, 'Total Fat': 0.732, 'Carbohydrates': 20.2}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomato, paste, canned, without salt added: {'Protein': 4.23, 'Fiber': 4.7, 'Saturated Fat': 0, 'Calories': 88.5, 'Total Fat': 0.732, 'Carbohydrates': 20.2}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomatoes, crushed, canned: {'Protein': 1.44, 'Fiber': 1.94, 'Saturated Fat': 0, 'Calories': 32.3, 'Total Fat': 0.398, 'Carbohydrates': 7.14}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomatoes, crushed, canned: {'Protein': 1.44, 'Fiber': 1.94, 'Saturated Fat': 0, 'Calories': 32.3, 'Total Fat': 0.398, 'Carbohydrates': 7.14}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomato, puree, canned: {'Protein': 1.58, 'Fiber': 1.97, 'Saturated Fat': 0, 'Calories': 34.8, 'Total Fat': 0.265, 'Carbohydrates': 8.04}
+2024-09-26 07:15:59,402 - DEBUG - Nutrients extracted for Tomato, puree, canned: {'Protein': 1.58, 'Fiber': 1.97, 'Saturated Fat': 0, 'Calories': 34.8, 'Total Fat': 0.265, 'Carbohydrates': 8.04}
+2024-09-26 07:15:59,405 - INFO - Data successfully saved to foods_data.json
