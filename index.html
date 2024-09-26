@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Score</title>
-    <!-- Include DataTables CSS -->
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
     <style>
         body {
@@ -22,11 +21,25 @@
             background-color: #f4f4f4;
             cursor: pointer;
         }
+        .input-container {
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
     <h1>Welcome to Food Score</h1>
     <p>Food Score is a simple way to evaluate foods based on their protein, fiber, and saturated fat content. Each food gets a score based on its nutritional profile, helping you make better choices.</p>
+
+    <!-- Input Form -->
+    <div class="input-container">
+        <h2>Add Your Own Food</h2>
+        <label>Food Name: <input type="text" id="foodName" required></label>
+        <label>Protein (g): <input type="number" id="protein" required></label>
+        <label>Fiber (g): <input type="number" id="fiber" required></label>
+        <label>Saturated Fat (g): <input type="number" id="satFat" required></label>
+        <label>Calories: <input type="number" id="calories" required></label>
+        <button onclick="addFood()">Add Food</button>
+    </div>
 
     <h2>Top Foods by Food Score</h2>
     <table id="foodTable" class="display">
@@ -83,8 +96,6 @@
             <tr><td>Artichoke</td><td>-14.3</td><td>0.0232</td><td>0.04</td><td>-0.2067</td></tr>
         </tbody>
     </table>
-
-    <!-- Include jQuery and DataTables JS -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     <script>
@@ -95,6 +106,42 @@
                 "ordering": true
             });
         });
+
+        function addFood() {
+            const name = document.getElementById('foodName').value;
+            const protein = parseFloat(document.getElementById('protein').value);
+            const fiber = parseFloat(document.getElementById('fiber').value);
+            const satFat = parseFloat(document.getElementById('satFat').value);
+            const calories = parseFloat(document.getElementById('calories').value);
+
+            // Calculate per 100 kcal values
+            const proteinPer100kcal = (protein / calories) * 100;
+            const fiberPer100kcal = (fiber / calories) * 100;
+            const satFatPer100kcal = (satFat / calories) * 100;
+
+            // Calculate Scores
+            const proteinScore = proteinPer100kcal / 125;
+            const fiberScore = fiberPer100kcal / 25;
+            const satFatScore = satFatPer100kcal / -15;
+            const totalScore = (proteinScore + fiberScore + satFatScore) * 100;
+
+            // Add the new food to the table
+            const table = $('#foodTable').DataTable();
+            table.row.add([
+                name,
+                totalScore.toFixed(1),
+                proteinScore.toFixed(4),
+                fiberScore.toFixed(4),
+                satFatScore.toFixed(4)
+            ]).draw();
+
+            // Clear the input fields
+            document.getElementById('foodName').value = '';
+            document.getElementById('protein').value = '';
+            document.getElementById('fiber').value = '';
+            document.getElementById('satFat').value = '';
+            document.getElementById('calories').value = '';
+        }
     </script>
 </body>
 </html>
