@@ -8,31 +8,31 @@
     },
     {
         "Food": "Tomatoes, grape, raw",
-        "Total Score": 8.0,
-        "Protein Score": 0.6,
-        "Fiber Score": 7.4,
+        "Total Score": 33.6,
+        "Protein Score": 2.5,
+        "Fiber Score": 31.1,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Beans, snap, green, canned, regular pack, drained solids",
-        "Total Score": 1.0,
-        "Protein Score": 1.0,
+        "Total Score": 4.0,
+        "Protein Score": 4.0,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Frankfurter, beef, unheated",
-        "Total Score": -5.1,
-        "Protein Score": 0.7,
+        "Total Score": -21.3,
+        "Protein Score": 3.0,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -5.8
+        "Saturated Fat Score": -24.3
     },
     {
         "Food": "Nuts, almonds, dry roasted, with salt added",
-        "Total Score": 1.1,
-        "Protein Score": 0.6,
-        "Fiber Score": 1.7,
-        "Saturated Fat Score": -1.2
+        "Total Score": 4.8,
+        "Protein Score": 2.6,
+        "Fiber Score": 7.1,
+        "Saturated Fat Score": -4.9
     },
     {
         "Food": "Kale, raw",
@@ -50,8 +50,8 @@
     },
     {
         "Food": "Egg, white, raw, frozen, pasteurized",
-        "Total Score": 4.0,
-        "Protein Score": 4.0,
+        "Total Score": 16.8,
+        "Protein Score": 16.8,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -64,10 +64,10 @@
     },
     {
         "Food": "Onion rings, breaded, par fried, frozen, prepared, heated in oven",
-        "Total Score": -0.1,
-        "Protein Score": 0.3,
-        "Fiber Score": 0.8,
-        "Saturated Fat Score": -1.2
+        "Total Score": -0.4,
+        "Protein Score": 1.3,
+        "Fiber Score": 3.3,
+        "Saturated Fat Score": -5.0
     },
     {
         "Food": "Pickles, cucumber, dill or kosher dill",
@@ -78,10 +78,10 @@
     },
     {
         "Food": "Cheese, parmesan, grated",
-        "Total Score": -4.6,
-        "Protein Score": 1.3,
+        "Total Score": -19.0,
+        "Protein Score": 5.6,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -5.9
+        "Saturated Fat Score": -24.6
     },
     {
         "Food": "Cheese, pasteurized process, American, vitamin D fortified",
@@ -99,29 +99,29 @@
     },
     {
         "Food": "Peaches, yellow, raw",
-        "Total Score": 3.8,
-        "Protein Score": 0.4,
-        "Fiber Score": 3.4,
+        "Total Score": 16.2,
+        "Protein Score": 1.8,
+        "Fiber Score": 14.4,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Seeds, sunflower seed kernels, dry roasted, with salt added",
-        "Total Score": 0.9,
-        "Protein Score": 0.7,
-        "Fiber Score": 1.6,
-        "Saturated Fat Score": -1.4
+        "Total Score": 3.6,
+        "Protein Score": 2.7,
+        "Fiber Score": 6.7,
+        "Saturated Fat Score": -5.8
     },
     {
         "Food": "Bread, white, commercially prepared",
-        "Total Score": 1.0,
-        "Protein Score": 0.7,
-        "Fiber Score": 0.8,
-        "Saturated Fat Score": -0.5
+        "Total Score": 4.2,
+        "Protein Score": 2.8,
+        "Fiber Score": 3.4,
+        "Saturated Fat Score": -2.0
     },
     {
         "Food": "Kale, frozen, cooked, boiled, drained, without salt",
-        "Total Score": 1.6,
-        "Protein Score": 1.6,
+        "Total Score": 6.5,
+        "Protein Score": 6.5,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -134,9 +134,9 @@
     },
     {
         "Food": "Kiwifruit, green, raw",
-        "Total Score": 5.4,
-        "Protein Score": 0.4,
-        "Fiber Score": 5.0,
+        "Total Score": 22.3,
+        "Protein Score": 1.5,
+        "Fiber Score": 20.8,
         "Saturated Fat Score": -0.0
     },
     {
@@ -148,17 +148,17 @@
     },
     {
         "Food": "Cheese, cheddar",
-        "Total Score": -6.4,
-        "Protein Score": 1.1,
+        "Total Score": -26.7,
+        "Protein Score": 4.6,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -7.5
+        "Saturated Fat Score": -31.3
     },
     {
         "Food": "Cheese, cottage, lowfat, 2% milkfat",
-        "Total Score": 0.1,
-        "Protein Score": 2.5,
+        "Total Score": 0.5,
+        "Protein Score": 10.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -2.4
+        "Saturated Fat Score": -10.0
     },
     {
         "Food": "Cheese, mozzarella, low moisture, part-skim",
@@ -176,15 +176,15 @@
     },
     {
         "Food": "Egg, yolk, raw, frozen, pasteurized",
-        "Total Score": 1.0,
-        "Protein Score": 1.0,
+        "Total Score": 4.2,
+        "Protein Score": 4.2,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Egg, yolk, dried",
-        "Total Score": 1.0,
-        "Protein Score": 1.0,
+        "Total Score": 4.2,
+        "Protein Score": 4.2,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -197,10 +197,10 @@
     },
     {
         "Food": "Yogurt, Greek, strawberry, nonfat",
-        "Total Score": 2.4,
-        "Protein Score": 1.9,
-        "Fiber Score": 0.7,
-        "Saturated Fat Score": -0.2
+        "Total Score": 9.9,
+        "Protein Score": 7.8,
+        "Fiber Score": 2.9,
+        "Saturated Fat Score": -0.8
     },
     {
         "Food": "Oil, coconut",
@@ -218,17 +218,17 @@
     },
     {
         "Food": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",
-        "Total Score": 2.7,
-        "Protein Score": 3.7,
+        "Total Score": 11.4,
+        "Protein Score": 15.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -1.0
+        "Saturated Fat Score": -4.1
     },
     {
         "Food": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
-        "Total Score": 3.9,
-        "Protein Score": 0.6,
-        "Fiber Score": 3.9,
-        "Saturated Fat Score": -0.6
+        "Total Score": 16.2,
+        "Protein Score": 2.5,
+        "Fiber Score": 16.2,
+        "Saturated Fat Score": -2.5
     },
     {
         "Food": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
@@ -239,52 +239,52 @@
     },
     {
         "Food": "Olives, green, Manzanilla, stuffed with pimiento",
-        "Total Score": 0.3,
-        "Protein Score": 0.2,
-        "Fiber Score": 2.9,
-        "Saturated Fat Score": -2.8
+        "Total Score": 1.2,
+        "Protein Score": 0.7,
+        "Fiber Score": 12.3,
+        "Saturated Fat Score": -11.8
     },
     {
         "Food": "Cookies, oatmeal, soft, with raisins",
-        "Total Score": -0.8,
-        "Protein Score": 0.3,
-        "Fiber Score": 0.7,
-        "Saturated Fat Score": -1.8
+        "Total Score": -3.2,
+        "Protein Score": 1.1,
+        "Fiber Score": 3.1,
+        "Saturated Fat Score": -7.4
     },
     {
         "Food": "Tomatoes, canned, red, ripe, diced",
-        "Total Score": 0.9,
-        "Protein Score": 0.9,
+        "Total Score": 3.7,
+        "Protein Score": 3.7,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Fish, haddock, raw",
-        "Total Score": 4.0,
-        "Protein Score": 4.2,
+        "Total Score": 16.9,
+        "Protein Score": 17.7,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.2
+        "Saturated Fat Score": -0.8
     },
     {
         "Food": "Fish, pollock, raw",
-        "Total Score": 3.8,
-        "Protein Score": 4.2,
+        "Total Score": 16.0,
+        "Protein Score": 17.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.4
+        "Saturated Fat Score": -1.5
     },
     {
         "Food": "Fish, tuna, light, canned in water, drained solids",
-        "Total Score": 3.6,
-        "Protein Score": 4.0,
+        "Total Score": 15.2,
+        "Protein Score": 16.9,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.4
+        "Saturated Fat Score": -1.7
     },
     {
         "Food": "Restaurant, Chinese, fried rice, without meat",
         "Total Score": -0.1,
-        "Protein Score": 0.4,
+        "Protein Score": 1.8,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.5
+        "Saturated Fat Score": -1.9
     },
     {
         "Food": "Restaurant, Latino, tamale, pork",
@@ -302,24 +302,24 @@
     },
     {
         "Food": "Bread, whole-wheat, commercially prepared",
-        "Total Score": 2.7,
-        "Protein Score": 0.9,
-        "Fiber Score": 2.3,
-        "Saturated Fat Score": -0.5
+        "Total Score": 11.5,
+        "Protein Score": 3.9,
+        "Fiber Score": 9.5,
+        "Saturated Fat Score": -1.9
     },
     {
         "Food": "Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0\" fat, select, cooked, roasted",
-        "Total Score": 0.8,
-        "Protein Score": 3.0,
+        "Total Score": 3.2,
+        "Protein Score": 12.6,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -2.2
+        "Saturated Fat Score": -9.4
     },
     {
         "Food": "Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8\" fat, choice, raw",
-        "Total Score": 0.2,
-        "Protein Score": 2.8,
+        "Total Score": 0.8,
+        "Protein Score": 11.8,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -2.6
+        "Saturated Fat Score": -11.0
     },
     {
         "Food": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
@@ -330,17 +330,17 @@
     },
     {
         "Food": "Beef, round, top round roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
-        "Total Score": 2.5,
-        "Protein Score": 3.7,
+        "Total Score": 10.4,
+        "Protein Score": 15.4,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -1.2
+        "Saturated Fat Score": -5.0
     },
     {
         "Food": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8\" fat, select, raw",
-        "Total Score": 0.7,
-        "Protein Score": 3.0,
+        "Total Score": 3.0,
+        "Protein Score": 12.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -2.3
+        "Saturated Fat Score": -9.5
     },
     {
         "Food": "Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8\" fat, choice, cooked, grilled",
@@ -351,9 +351,9 @@
     },
     {
         "Food": "Carrots, frozen, unprepared",
-        "Total Score": 8.8,
-        "Protein Score": 0.4,
-        "Fiber Score": 8.4,
+        "Total Score": 36.8,
+        "Protein Score": 1.8,
+        "Fiber Score": 35.0,
         "Saturated Fat Score": -0.0
     },
     {
@@ -372,10 +372,10 @@
     },
     {
         "Food": "Cheese, swiss",
-        "Total Score": -6.1,
-        "Protein Score": 1.3,
+        "Total Score": -25.5,
+        "Protein Score": 5.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -7.4
+        "Saturated Fat Score": -31.0
     },
     {
         "Food": "Figs, dried, uncooked",
@@ -386,23 +386,23 @@
     },
     {
         "Food": "Lettuce, cos or romaine, raw",
-        "Total Score": 11.7,
-        "Protein Score": 1.4,
-        "Fiber Score": 10.3,
+        "Total Score": 48.9,
+        "Protein Score": 5.9,
+        "Fiber Score": 43.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Melons, cantaloupe, raw",
-        "Total Score": 2.8,
-        "Protein Score": 0.5,
-        "Fiber Score": 2.3,
+        "Total Score": 11.4,
+        "Protein Score": 1.9,
+        "Fiber Score": 9.5,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Oranges, raw, navels",
-        "Total Score": 4.5,
-        "Protein Score": 0.4,
-        "Fiber Score": 4.1,
+        "Total Score": 18.7,
+        "Protein Score": 1.6,
+        "Fiber Score": 17.1,
         "Saturated Fat Score": -0.0
     },
     {
@@ -428,17 +428,17 @@
     },
     {
         "Food": "Salt, table, iodized",
-        "Total Score": 0.0,
-        "Protein Score": 0.0,
-        "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.0
+        "Total Score": 0,
+        "Protein Score": 0,
+        "Fiber Score": 0,
+        "Saturated Fat Score": 0
     },
     {
         "Food": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
-        "Total Score": 1.7,
-        "Protein Score": 1.9,
+        "Total Score": 7.1,
+        "Protein Score": 8.0,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -0.2
+        "Saturated Fat Score": -0.9
     },
     {
         "Food": "Sauce, salsa, ready-to-serve",
@@ -456,31 +456,31 @@
     },
     {
         "Food": "Sausage, breakfast sausage, beef, pre-cooked, unprepared",
-        "Total Score": -4.7,
-        "Protein Score": 0.8,
+        "Total Score": -19.8,
+        "Protein Score": 3.2,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -5.5
+        "Saturated Fat Score": -23.0
     },
     {
         "Food": "Sausage, Italian, pork, mild, cooked, pan-fried",
-        "Total Score": -3.4,
-        "Protein Score": 1.1,
+        "Total Score": -14.4,
+        "Protein Score": 4.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -4.5
+        "Saturated Fat Score": -18.9
     },
     {
         "Food": "Sausage, pork, chorizo, link or ground, cooked, pan-fried",
-        "Total Score": -3.2,
-        "Protein Score": 1.1,
+        "Total Score": -13.7,
+        "Protein Score": 4.5,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -4.3
+        "Saturated Fat Score": -18.2
     },
     {
         "Food": "Milk, whole, 3.25% milkfat, with added vitamin D",
-        "Total Score": -3.9,
-        "Protein Score": 1.0,
+        "Total Score": -16.3,
+        "Protein Score": 4.4,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -4.9
+        "Saturated Fat Score": -20.7
     },
     {
         "Food": "Sausage, turkey, breakfast links, mild, raw",
@@ -498,24 +498,24 @@
     },
     {
         "Food": "Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",
-        "Total Score": 0.3,
-        "Protein Score": 2.4,
+        "Total Score": 0.8,
+        "Protein Score": 9.8,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -2.1
+        "Saturated Fat Score": -9.0
     },
     {
         "Food": "Ham, sliced, restaurant",
-        "Total Score": 1.5,
-        "Protein Score": 3.1,
+        "Total Score": 6.0,
+        "Protein Score": 12.9,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -1.6
+        "Saturated Fat Score": -6.9
     },
     {
         "Food": "Cheese, American, restaurant",
-        "Total Score": -6.6,
-        "Protein Score": 0.9,
+        "Total Score": -27.7,
+        "Protein Score": 3.7,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -7.5
+        "Saturated Fat Score": -31.4
     },
     {
         "Food": "Beans, Dry, Medium Red (0% moisture)",
@@ -645,8 +645,8 @@
     },
     {
         "Food": "Ketchup, restaurant",
-        "Total Score": 0.2,
-        "Protein Score": 0.2,
+        "Total Score": 0.8,
+        "Protein Score": 0.8,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -659,8 +659,8 @@
     },
     {
         "Food": "Eggs, Grade A, Large, egg yolk",
-        "Total Score": 0.9,
-        "Protein Score": 0.9,
+        "Total Score": 3.9,
+        "Protein Score": 3.9,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -694,17 +694,17 @@
     },
     {
         "Food": "Eggs, Grade A, Large, egg whole",
-        "Total Score": -1.9,
-        "Protein Score": 1.6,
+        "Total Score": -7.8,
+        "Protein Score": 6.7,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -3.5
+        "Saturated Fat Score": -14.5
     },
     {
         "Food": "Pork, cured, bacon, cooked, restaurant",
-        "Total Score": -2.4,
-        "Protein Score": 1.6,
+        "Total Score": -10.2,
+        "Protein Score": 6.6,
         "Fiber Score": 0.0,
-        "Saturated Fat Score": -4.0
+        "Saturated Fat Score": -16.8
     },
     {
         "Food": "Butter, stick, unsalted",
@@ -729,22 +729,22 @@
     },
     {
         "Food": "Flour, wheat, all-purpose, unenriched, unbleached",
-        "Total Score": 1.4,
-        "Protein Score": 0.6,
-        "Fiber Score": 0.8,
+        "Total Score": 6.0,
+        "Protein Score": 2.7,
+        "Fiber Score": 3.3,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, whole wheat, unenriched",
-        "Total Score": 3.5,
-        "Protein Score": 0.8,
-        "Fiber Score": 2.7,
+        "Total Score": 14.7,
+        "Protein Score": 3.3,
+        "Fiber Score": 11.4,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, bread, white, enriched, unbleached",
-        "Total Score": 0.8,
-        "Protein Score": 0.8,
+        "Total Score": 3.1,
+        "Protein Score": 3.1,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -757,9 +757,9 @@
     },
     {
         "Food": "Flour, corn, yellow, fine meal, enriched",
-        "Total Score": 1.4,
-        "Protein Score": 0.3,
-        "Fiber Score": 1.1,
+        "Total Score": 6.1,
+        "Protein Score": 1.4,
+        "Fiber Score": 4.7,
         "Saturated Fat Score": -0.0
     },
     {
@@ -771,36 +771,36 @@
     },
     {
         "Food": "Onions, red, raw",
-        "Total Score": 5.1,
-        "Protein Score": 0.4,
-        "Fiber Score": 4.7,
+        "Total Score": 21.5,
+        "Protein Score": 1.7,
+        "Fiber Score": 19.8,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Onions, yellow, raw",
-        "Total Score": 5.2,
-        "Protein Score": 0.4,
-        "Fiber Score": 4.8,
+        "Total Score": 21.6,
+        "Protein Score": 1.7,
+        "Fiber Score": 19.9,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Garlic, raw",
-        "Total Score": 2.7,
-        "Protein Score": 0.9,
-        "Fiber Score": 1.8,
+        "Total Score": 11.3,
+        "Protein Score": 3.7,
+        "Fiber Score": 7.6,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, soy, defatted",
-        "Total Score": 2.7,
-        "Protein Score": 2.7,
+        "Total Score": 11.2,
+        "Protein Score": 11.2,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, soy, full-fat",
-        "Total Score": 1.6,
-        "Protein Score": 1.6,
+        "Total Score": 6.8,
+        "Protein Score": 6.8,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
@@ -813,30 +813,30 @@
     },
     {
         "Food": "Flour, rice, glutinous",
-        "Total Score": 0.4,
-        "Protein Score": 0.4,
+        "Total Score": 1.5,
+        "Protein Score": 1.5,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Flour, pastry, unenriched, unbleached",
-        "Total Score": 0.5,
-        "Protein Score": 0.5,
+        "Total Score": 2.0,
+        "Protein Score": 2.0,
         "Fiber Score": 0.0,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Onions, white, raw",
-        "Total Score": 3.7,
-        "Protein Score": 0.5,
-        "Fiber Score": 3.2,
+        "Total Score": 15.6,
+        "Protein Score": 2.0,
+        "Fiber Score": 13.6,
         "Saturated Fat Score": -0.0
     },
     {
         "Food": "Bananas, overripe, raw",
-        "Total Score": 2.1,
-        "Protein Score": 0.2,
-        "Fiber Score": 1.9,
+        "Total Score": 8.7,
+        "Protein Score": 0.7,
+        "Fiber Score": 8.0,
         "Saturated Fat Score": -0.0
     },
     {

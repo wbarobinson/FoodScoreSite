@@ -37,7 +37,7 @@ nutrient_keywords = {
     'Saturated Fat': ['Fatty acids, total saturated', 'Saturated Fat', 1258],
     'Total Fat': ['Total lipid (fat)', 'Fat', 'Total fat (NLEA)', 1004],
     'Carbohydrates': ['Carbohydrate, by difference', 'Carbs', 'Total Carbohydrate', 1005],
-    'Calories': ['Energy', 'Calories', 1008, 'Energy (Atwater General Factors)', 'Energy (Atwater Specific Factors)', 2047, 2048]
+    'Calories': ['Energy', 'Calories', 'kcal', 1008, 'Energy (Atwater General Factors)', 'Energy (Atwater Specific Factors)', 2047, 2048]
 }
 
 # Function to match nutrient names or IDs
@@ -46,7 +46,7 @@ def match_nutrient(nutrient, keywords):
     id_ = nutrient['nutrient']['id']
     return name in keywords or id_ in keywords
 
-# Estimate calories if missing using macronutrient values
+# Estimate calories from macronutrient values
 def estimate_calories(protein, fat, carbs, food_name):
     estimated_calories = (protein * 4) + (fat * 9) + (carbs * 4)
     logging.debug(f"Estimated calories for {food_name} from macronutrients: Protein={protein}g, Fat={fat}g, Carbs={carbs}g -> Estimated Calories={estimated_calories}")
@@ -55,9 +55,9 @@ def estimate_calories(protein, fat, carbs, food_name):
 # Function to calculate the food score with protein, fiber, and saturated fat scores multiplied by 100 and rounded
 def calculate_score(protein, fiber, sat_fat, calories, food_name):
     # Calculate individual scores
-    protein_score = round((protein / calories) * 100 / 125 * 100, 1)
-    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1)
-    sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1)
+    protein_score = round((protein / calories) * 100 / 125 * 100, 1) if calories > 0 else 0
+    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1) if calories > 0 else 0
+    sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1) if calories > 0 else 0
     total_score = round(protein_score + fiber_score + sat_fat_score, 1)
 
     # Log each calculation step specifically for squash
@@ -71,35 +71,38 @@ def calculate_score(protein, fiber, sat_fat, calories, food_name):
 
     return total_score, protein_score, fiber_score, sat_fat_score
 
-# Function to extract nutrients, ensuring essential nutrients are present
+# Function to extract nutrients without skipping any food
 def extract_nutrients(food):
     food_name = food.get('description', 'Unknown Food')
-    # Allow optional nutrients (e.g., Fiber and Saturated Fat) to be missing
     nutrients = {'Protein': 0, 'Fiber': 0, 'Saturated Fat': 0, 'Calories': 0, 'Total Fat': 0, 'Carbohydrates': 0}
 
     # Extract each nutrient from food data
     for nutrient in food.get('foodNutrients', []):
         nutrient_name = nutrient['nutrient']['name']
         nutrient_id = nutrient['nutrient']['id']
+        unit_name = nutrient['nutrient'].get('unitName', '').lower()
 
         # Match nutrients correctly using specified keywords
         for key, keywords in nutrient_keywords.items():
             if match_nutrient(nutrient, keywords):
-                nutrients[key] = nutrient.get('amount', 0)  # Use 0 if amount is not present
+                amount = nutrient.get('amount', 0)
+
+                # Convert kJ to kcal if needed
+                if key == 'Calories' and unit_name == 'kj':
+                    amount = amount / 4.184
+                    logging.debug(f"Converted {nutrient_name} from kJ to kcal for {food_name}: {amount} kcal")
+
+                nutrients[key] = amount
                 break  # Stop further checks once a match is found
 
-    # # Skip foods missing any essential nutrient data (Protein, Total Fat, Carbohydrates, Calories)
-    # essential_nutrients = ['Protein', 'Total Fat', 'Carbohydrates', 'Calories']
-    # if any(nutrients[n] is None for n in essential_nutrients):
-    #     logging.warning(f"Skipping {food_name} due to missing essential nutrient data: {nutrients}")
-    #     return None
+    # If calories are zero or missing, estimate them based on macronutrients
+    if nutrients['Calories'] == 0 and nutrients['Total Fat'] > 0:
+        # Specifically handle oils by calculating calories based purely on fat content
+        nutrients['Calories'] = estimate_calories(nutrients['Protein'], nutrients['Total Fat'], nutrients['Carbohydrates'], food_name)
+        logging.debug(f"Estimated calories specifically for {food_name} due to missing energy data: {nutrients['Calories']} kcal")
 
     # Log the extracted nutrient amounts
     logging.debug(f"Nutrients extracted for {food_name}: {nutrients}")
-
-    # Estimate calories if missing or zero
-    if nutrients['Calories'] == 0:
-        nutrients['Calories'] = estimate_calories(nutrients['Protein'], nutrients['Total Fat'], nutrients['Carbohydrates'], food_name)
 
     # Calculate scores and log the calculations
     total_score, protein_score, fiber_score, sat_fat_score = calculate_score(
@@ -116,7 +119,7 @@ def extract_nutrients(food):
 
 # Extract and calculate scores for each food item
 if data:
-    foods_data = [extract_nutrients(food) for food in data.get('FoundationFoods', []) if extract_nutrients(food) is not None]
+    foods_data = [extract_nutrients(food) for food in data.get('FoundationFoods', [])]
 
     # Save the extracted and scored data to a JSON file
     output_file_path = 'foods_data.json'
