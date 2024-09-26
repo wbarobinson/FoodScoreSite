@@ -10,39 +10,28 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            line-height: 1.6;
         }
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 20px;
         }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
         th {
             background-color: #f4f4f4;
-            cursor: pointer;
-        }
-        .input-container {
-            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to Food Score</h1>
-    <p>Food Score is a simple way to evaluate foods based on their protein, fiber, and saturated fat content. Each food gets a score based on its nutritional profile, helping you make better choices.</p>
+    <h1>Food Score</h1>
+    <p>View the food scores based on protein, fiber, and saturated fat content.</p>
 
-    <!-- Input Form -->
-    <div class="input-container">
-        <h2>Add Your Own Food</h2>
-        <label>Food Name: <input type="text" id="foodName" required></label>
-        <label>Protein (g): <input type="number" id="protein" required></label>
-        <label>Fiber (g): <input type="number" id="fiber" required></label>
-        <label>Saturated Fat (g): <input type="number" id="satFat" required></label>
-        <label>Calories: <input type="number" id="calories" required></label>
-        <button onclick="addFood()">Add Food</button>
-    </div>
-
-    <h2>Top Foods by Food Score</h2>
-    <table id="foodTable" class="display">
+    <!-- Table to display food scores -->
+    <table id="foodTable">
         <thead>
             <tr>
                 <th>Food</th>
@@ -52,96 +41,37 @@
                 <th>Saturated Fat Score</th>
             </tr>
         </thead>
-        <tbody>
-            <!-- Example Data -->
-            <tr>
-                <td>Almonds</td>
-                <td>15.0</td>
-                <td>2.88</td>
-                <td>8.4</td>
-                <td>-3.67</td>
-            </tr>
-            <tr>
-                <td>Broccoli</td>
-                <td>25.4</td>
-                <td>4.08</td>
-                <td>18.8</td>
-                <td>-1.33</td>
-            </tr>
-            <!-- Add more food rows up to 200 here -->
-            <tr><td>Millet</td><td>36.9</td><td>0.1488</td><td>0.24</td><td>-0.02</td></tr>
-            <tr><td>Peanuts</td><td>-6.2</td><td>0.1024</td><td>0.216</td><td>-0.38</td></tr>
-            <tr><td>Fennel</td><td>44.5</td><td>0.096</td><td>0.396</td><td>-0.0467</td></tr>
-            <tr><td>Mussels</td><td>-23.7</td><td>0.016</td><td>0.4</td><td>-0.6533</td></tr>
-            <tr><td>Lettuce</td><td>-42.7</td><td>0.0048</td><td>0.088</td><td>-0.52</td></tr>
-            <tr><td>Orange</td><td>-16.2</td><td>0.0968</td><td>0.108</td><td>-0.3667</td></tr>
-            <tr><td>Fries</td><td>20.3</td><td>0.1056</td><td>0.384</td><td>-0.2867</td></tr>
-            <tr><td>Zucchini</td><td>-14.1</td><td>0.04</td><td>0.312</td><td>-0.4933</td></tr>
-            <tr><td>Squash</td><td>35.6</td><td>0.196</td><td>0.26</td><td>-0.1</td></tr>
-            <tr><td>Chickpeas</td><td>-3.3</td><td>0.0176</td><td>0.276</td><td>-0.3267</td></tr>
-            <tr><td>Swordfish</td><td>12.5</td><td>0.136</td><td>0.096</td><td>-0.1067</td></tr>
-            <tr><td>Juice</td><td>-1.2</td><td>0.1144</td><td>0.38</td><td>-0.5067</td></tr>
-            <tr><td>Brussels Sprouts</td><td>-2.0</td><td>0.0816</td><td>0.112</td><td>-0.2133</td></tr>
-            <tr><td>Margarine</td><td>-21.6</td><td>0.116</td><td>0.008</td><td>-0.34</td></tr>
-            <tr><td>Halibut</td><td>-44.2</td><td>0.1208</td><td>0.044</td><td>-0.6067</td></tr>
-            <tr><td>Veggie Burger</td><td>31.6</td><td>0.1264</td><td>0.296</td><td>-0.1067</td></tr>
-            <tr><td>Brownie</td><td>13.2</td><td>0.1336</td><td>0.052</td><td>-0.0533</td></tr>
-            <tr><td>Rutabaga</td><td>-38.0</td><td>0.0584</td><td>0.188</td><td>-0.6267</td></tr>
-            <tr><td>Asparagus</td><td>-23.7</td><td>0.0048</td><td>0.092</td><td>-0.3333</td></tr>
-            <tr><td>Tomato</td><td>-12.9</td><td>0.0736</td><td>0.204</td><td>-0.4067</td></tr>
-            <tr><td>Kale</td><td>-1.4</td><td>0.1792</td><td>0.4</td><td>-0.5933</td></tr>
-            <tr><td>Pumpkin</td><td>-27.0</td><td>0.0544</td><td>0.036</td><td>-0.36</td></tr>
-            <tr><td>Bulgur</td><td>-14.8</td><td>0.1016</td><td>0.004</td><td>-0.2533</td></tr>
-            <tr><td>Chili</td><td>20.6</td><td>0.0128</td><td>0.22</td><td>-0.0267</td></tr>
-            <tr><td>Artichoke</td><td>-14.3</td><td>0.0232</td><td>0.04</td><td>-0.2067</td></tr>
+        <tbody id="foodTableBody">
+            <!-- Data will be loaded dynamically here -->
         </tbody>
     </table>
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     <script>
-        $(document).ready(function() {
-            $('#foodTable').DataTable({
-                "paging": true,
-                "searching": true,
-                "ordering": true
-            });
-        });
+        // Load the JSON data from the file foods_data.json and display it in the table
+        fetch('foods_data.json')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.getElementById('foodTableBody');
+                
+                // Populate the table with data
+                data.forEach(food => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${food.Food}</td>
+                        <td>${food['Total Score']}</td>
+                        <td>${food['Protein Score']}</td>
+                        <td>${food['Fiber Score']}</td>
+                        <td>${food['Saturated Fat Score']}</td>
+                    `;
+                    tableBody.appendChild(row);
+                });
 
-        function addFood() {
-            const name = document.getElementById('foodName').value;
-            const protein = parseFloat(document.getElementById('protein').value);
-            const fiber = parseFloat(document.getElementById('fiber').value);
-            const satFat = parseFloat(document.getElementById('satFat').value);
-            const calories = parseFloat(document.getElementById('calories').value);
-
-            // Calculate per 100 kcal values
-            const proteinPer100kcal = (protein / calories) * 100;
-            const fiberPer100kcal = (fiber / calories) * 100;
-            const satFatPer100kcal = (satFat / calories) * 100;
-
-            // Calculate Scores
-            const proteinScore = proteinPer100kcal / 125;
-            const fiberScore = fiberPer100kcal / 25;
-            const satFatScore = satFatPer100kcal / -15;
-            const totalScore = (proteinScore + fiberScore + satFatScore) * 100;
-
-            // Add the new food to the table
-            const table = $('#foodTable').DataTable();
-            table.row.add([
-                name,
-                totalScore.toFixed(1),
-                proteinScore.toFixed(4),
-                fiberScore.toFixed(4),
-                satFatScore.toFixed(4)
-            ]).draw();
-
-            // Clear the input fields
-            document.getElementById('foodName').value = '';
-            document.getElementById('protein').value = '';
-            document.getElementById('fiber').value = '';
-            document.getElementById('satFat').value = '';
-            document.getElementById('calories').value = '';
-        }
+                // Initialize DataTables for interactive table features
+                $('#foodTable').DataTable();
+            })
+            .catch(error => console.error('Error loading data:', error));
     </script>
 </body>
 </html>
