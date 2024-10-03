@@ -55,8 +55,8 @@ def estimate_calories(protein, fat, carbs, food_name):
 # Function to calculate the food score with protein, fiber, and saturated fat scores multiplied by 100 and rounded
 def calculate_score(protein, fiber, sat_fat, calories, food_name):
     # Calculate individual scores
-    protein_score = round((protein / calories) * 100 / 125 * 100, 1) if calories > 0 else 0
-    fiber_score = round((fiber / calories) * 100 / 25 * 100, 1) if calories > 0 else 0
+    protein_score = round((protein / calories) * 100 / 160 * 100, 1) if calories > 0 else 0
+    fiber_score = round((fiber / calories) * 100 / 21 * 100, 1) if calories > 0 else 0
     sat_fat_score = round(-(sat_fat / calories) * 100 / 15 * 100, 1) if calories > 0 else 0
     total_score = round(protein_score + fiber_score + sat_fat_score, 1)
 
